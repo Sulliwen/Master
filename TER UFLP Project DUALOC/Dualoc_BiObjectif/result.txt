@@ -1,0 +1,3452 @@
+Intervalle : [0//1 , 3//1186]
+
+Intervalle : [3//1186 , 2//681]
+
+Intervalle : [2//681 , 1//92]
+
+Intervalle : [1//92 , 1//91]
+
+Intervalle : [1//91 , 1//90]
+
+Intervalle : [1//90 , 1//83]
+
+Intervalle : [1//83 , 1//82]
+
+Intervalle : [1//82 , 1//81]
+
+Intervalle : [1//81 , 1//79]
+
+Intervalle : [1//79 , 1//78]
+
+Intervalle : [1//78 , 1//77]
+
+Intervalle : [1//77 , 1//73]
+
+Intervalle : [1//73 , 1//72]
+
+Intervalle : [1//72 , 1//71]
+
+Intervalle : [1//71 , 1//69]
+
+Intervalle : [1//69 , 1//65]
+
+Intervalle : [1//65 , 1//64]
+
+Intervalle : [1//64 , 1//63]
+
+Intervalle : [1//63 , 1//62]
+
+Intervalle : [1//62 , 1//61]
+
+Intervalle : [1//61 , 1//59]
+
+Intervalle : [1//59 , 1//58]
+
+Intervalle : [1//58 , 1//57]
+
+Intervalle : [1//57 , 1//55]
+
+Intervalle : [1//55 , 1//54]
+
+Intervalle : [1//54 , 1//53]
+
+Intervalle : [1//53 , 1//51]
+
+Intervalle : [1//51 , 1//50]
+
+Intervalle : [1//50 , 1//49]
+
+Intervalle : [1//49 , 1//48]
+
+Intervalle : [1//48 , 1//47]
+
+Intervalle : [1//47 , 1//45]
+
+Intervalle : [1//45 , 2//87]
+
+Intervalle : [2//87 , 1//43]
+
+Intervalle : [1//43 , 2//85]
+
+Intervalle : [2//85 , 1//42]
+
+Intervalle : [1//42 , 1//41]
+
+Intervalle : [1//41 , 1//40]
+
+Intervalle : [1//40 , 1//39]
+
+Intervalle : [1//39 , 2//77]
+
+Intervalle : [2//77 , 1//38]
+
+Intervalle : [1//38 , 1//37]
+
+Intervalle : [1//37 , 2//73]
+
+Intervalle : [2//73 , 1//36]
+
+Intervalle : [1//36 , 2//71]
+
+Intervalle : [2//71 , 1//35]
+
+Intervalle : [1//35 , 2//69]
+
+Intervalle : [2//69 , 1//34]
+
+Intervalle : [1//34 , 2//67]
+
+Intervalle : [2//67 , 3//100]
+
+Intervalle : [3//100 , 1//33]
+
+Intervalle : [1//33 , 2//63]
+
+Intervalle : [2//63 , 3//94]
+
+Intervalle : [3//94 , 1//31]
+
+Intervalle : [1//31 , 2//61]
+
+Intervalle : [2//61 , 1//30]
+
+Intervalle : [1//30 , 3//89]
+
+Intervalle : [3//89 , 1//29]
+
+Intervalle : [1//29 , 3//86]
+
+Intervalle : [3//86 , 2//57]
+
+Intervalle : [2//57 , 1//28]
+
+Intervalle : [1//28 , 3//83]
+
+Intervalle : [3//83 , 2//55]
+
+Intervalle : [2//55 , 1//27]
+
+Intervalle : [1//27 , 2//53]
+
+Intervalle : [2//53 , 1//26]
+
+Intervalle : [1//26 , 2//51]
+
+Intervalle : [2//51 , 1//25]
+
+Intervalle : [1//25 , 2//49]
+
+Intervalle : [2//49 , 1//24]
+
+Intervalle : [1//24 , 3//71]
+
+Intervalle : [3//71 , 3//70]
+
+Intervalle : [3//70 , 1//23]
+
+Intervalle : [1//23 , 4//91]
+
+Intervalle : [4//91 , 3//68]
+
+Intervalle : [3//68 , 1//22]
+
+Intervalle : [1//22 , 2//43]
+
+Intervalle : [2//43 , 4//85]
+
+Intervalle : [4//85 , 1//21]
+
+Intervalle : [1//21 , 3//62]
+
+Intervalle : [3//62 , 2//41]
+
+Intervalle : [2//41 , 4//81]
+
+Intervalle : [4//81 , 1//20]
+
+Intervalle : [1//20 , 4//79]
+
+Intervalle : [4//79 , 5//97]
+
+Intervalle : [5//97 , 3//58]
+
+Intervalle : [3//58 , 1//19]
+
+Intervalle : [1//19 , 3//56]
+
+Intervalle : [3//56 , 2//37]
+
+Intervalle : [2//37 , 3//55]
+
+Intervalle : [3//55 , 1//18]
+
+Intervalle : [1//18 , 5//89]
+
+Intervalle : [5//89 , 4//71]
+
+Intervalle : [4//71 , 3//53]
+
+Intervalle : [3//53 , 5//88]
+
+Intervalle : [5//88 , 2//35]
+
+Intervalle : [2//35 , 3//52]
+
+Intervalle : [3//52 , 5//86]
+
+Intervalle : [5//86 , 1//17]
+
+Intervalle : [1//17 , 5//84]
+
+Intervalle : [5//84 , 4//67]
+
+Intervalle : [4//67 , 3//50]
+
+Intervalle : [3//50 , 2//33]
+
+Intervalle : [2//33 , 4//65]
+
+Intervalle : [4//65 , 1//16]
+
+Intervalle : [1//16 , 6//95]
+
+Intervalle : [6//95 , 4//63]
+
+Intervalle : [4//63 , 3//47]
+
+Intervalle : [3//47 , 5//78]
+
+Intervalle : [5//78 , 2//31]
+
+Intervalle : [2//31 , 5//77]
+
+Intervalle : [5//77 , 3//46]
+
+Intervalle : [3//46 , 4//61]
+
+Intervalle : [4//61 , 5//76]
+
+Intervalle : [5//76 , 1//15]
+
+Intervalle : [1//15 , 4//59]
+
+Intervalle : [4//59 , 7//103]
+
+Intervalle : [7//103 , 3//44]
+
+Intervalle : [3//44 , 2//29]
+
+Intervalle : [2//29 , 7//101]
+
+Intervalle : [7//101 , 3//43]
+
+Intervalle : [3//43 , 4//57]
+
+Intervalle : [4//57 , 1//14]
+
+Intervalle : [1//14 , 6//83]
+
+Intervalle : [6//83 , 4//55]
+
+Intervalle : [4//55 , 3//41]
+
+Intervalle : [3//41 , 5//67]
+
+Intervalle : [5//67 , 3//40]
+
+Intervalle : [3//40 , 6//79]
+
+Intervalle : [6//79 , 1//13]
+
+Intervalle : [1//13 , 6//77]
+
+Intervalle : [6//77 , 5//64]
+
+Intervalle : [5//64 , 3//38]
+
+Intervalle : [3//38 , 5//63]
+
+Intervalle : [5//63 , 7//88]
+
+Intervalle : [7//88 , 2//25]
+
+Intervalle : [2//25 , 5//62]
+
+Intervalle : [5//62 , 4//49]
+
+Intervalle : [4//49 , 7//85]
+
+Intervalle : [7//85 , 1//12]
+
+Intervalle : [1//12 , 7//83]
+
+Intervalle : [7//83 , 6//71]
+
+Intervalle : [6//71 , 5//59]
+
+Intervalle : [5//59 , 4//47]
+
+Intervalle : [4//47 , 3//35]
+
+Intervalle : [3//35 , 2//23]
+
+Intervalle : [2//23 , 5//57]
+
+Intervalle : [5//57 , 8//91]
+
+Intervalle : [8//91 , 3//34]
+
+Intervalle : [3//34 , 4//45]
+
+Intervalle : [4//45 , 5//56]
+
+Intervalle : [5//56 , 6//67]
+
+Intervalle : [6//67 , 7//78]
+
+Intervalle : [7//78 , 9//100]
+
+Intervalle : [9//100 , 1//11]
+
+Intervalle : [1//11 , 7//76]
+
+Intervalle : [7//76 , 6//65]
+
+Intervalle : [6//65 , 5//54]
+
+Intervalle : [5//54 , 4//43]
+
+Intervalle : [4//43 , 3//32]
+
+Intervalle : [3//32 , 5//53]
+
+Intervalle : [5//53 , 2//21]
+
+Intervalle : [2//21 , 3//31]
+
+Intervalle : [3//31 , 7//72]
+
+Intervalle : [7//72 , 4//41]
+
+Intervalle : [4//41 , 9//92]
+
+Intervalle : [9//92 , 6//61]
+
+Intervalle : [6//61 , 8//81]
+
+Intervalle : [8//81 , 1//10]
+
+Intervalle : [1//10 , 5//49]
+
+Intervalle : [5//49 , 4//39]
+
+Intervalle : [4//39 , 11//107]
+
+Intervalle : [11//107 , 3//29]
+
+Intervalle : [3//29 , 8//77]
+
+Intervalle : [8//77 , 2//19]
+
+Intervalle : [2//19 , 11//104]
+
+Intervalle : [11//104 , 9//85]
+
+Intervalle : [9//85 , 5//47]
+
+Intervalle : [5//47 , 3//28]
+
+Intervalle : [3//28 , 4//37]
+
+Intervalle : [4//37 , 7//64]
+
+Intervalle : [7//64 , 8//73]
+
+Intervalle : [8//73 , 1//9]
+
+Intervalle : [1//9 , 9//80]
+
+Intervalle : [9//80 , 7//62]
+
+Intervalle : [7//62 , 6//53]
+
+Intervalle : [6//53 , 9//79]
+
+Intervalle : [9//79 , 4//35]
+
+Intervalle : [4//35 , 11//96]
+
+Intervalle : [11//96 , 7//61]
+
+Intervalle : [7//61 , 3//26]
+
+Intervalle : [3//26 , 8//69]
+
+Intervalle : [8//69 , 5//43]
+
+Intervalle : [5//43 , 9//77]
+
+Intervalle : [9//77 , 2//17]
+
+Intervalle : [2//17 , 7//59]
+
+Intervalle : [7//59 , 5//42]
+
+Intervalle : [5//42 , 13//109]
+
+Intervalle : [13//109 , 8//67]
+
+Intervalle : [8//67 , 3//25]
+
+Intervalle : [3//25 , 13//108]
+
+Intervalle : [13//108 , 10//83]
+
+Intervalle : [10//83 , 4//33]
+
+Intervalle : [4//33 , 13//107]
+
+Intervalle : [13//107 , 5//41]
+
+Intervalle : [5//41 , 11//90]
+
+Intervalle : [11//90 , 6//49]
+
+Intervalle : [6//49 , 13//106]
+
+Intervalle : [13//106 , 7//57]
+
+Intervalle : [7//57 , 8//65]
+
+Intervalle : [8//65 , 10//81]
+
+Intervalle : [10//81 , 13//105]
+
+Intervalle : [13//105 , 1//8]
+
+Intervalle : [1//8 , 12//95]
+
+Intervalle : [12//95 , 11//87]
+
+Intervalle : [11//87 , 8//63]
+
+Intervalle : [8//63 , 11//86]
+
+Intervalle : [11//86 , 4//31]
+
+Intervalle : [4//31 , 7//54]
+
+Intervalle : [7//54 , 10//77]
+
+Intervalle : [10//77 , 3//23]
+
+Intervalle : [3//23 , 8//61]
+
+Intervalle : [8//61 , 5//38]
+
+Intervalle : [5//38 , 12//91]
+
+Intervalle : [12//91 , 7//53]
+
+Intervalle : [7//53 , 9//68]
+
+Intervalle : [9//68 , 13//98]
+
+Intervalle : [13//98 , 15//113]
+
+Intervalle : [15//113 , 2//15]
+
+Intervalle : [2//15 , 11//82]
+
+Intervalle : [11//82 , 9//67]
+
+Intervalle : [9//67 , 7//52]
+
+Intervalle : [7//52 , 5//37]
+
+Intervalle : [5//37 , 8//59]
+
+Intervalle : [8//59 , 3//22]
+
+Intervalle : [3//22 , 10//73]
+
+Intervalle : [10//73 , 4//29]
+
+Intervalle : [4//29 , 14//101]
+
+Intervalle : [14//101 , 5//36]
+
+Intervalle : [5//36 , 11//79]
+
+Intervalle : [11//79 , 6//43]
+
+Intervalle : [6//43 , 7//50]
+
+Intervalle : [7//50 , 8//57]
+
+Intervalle : [8//57 , 9//64]
+
+Intervalle : [9//64 , 10//71]
+
+Intervalle : [10//71 , 11//78]
+
+Intervalle : [11//78 , 12//85]
+
+Intervalle : [12//85 , 1//7]
+
+Intervalle : [1//7 , 14//97]
+
+Intervalle : [14//97 , 13//90]
+
+Intervalle : [13//90 , 11//76]
+
+Intervalle : [11//76 , 10//69]
+
+Intervalle : [10//69 , 9//62]
+
+Intervalle : [9//62 , 7//48]
+
+Intervalle : [7//48 , 6//41]
+
+Intervalle : [6//41 , 11//75]
+
+Intervalle : [11//75 , 5//34]
+
+Intervalle : [5//34 , 13//88]
+
+Intervalle : [13//88 , 17//115]
+
+Intervalle : [17//115 , 4//27]
+
+Intervalle : [4//27 , 15//101]
+
+Intervalle : [15//101 , 7//47]
+
+Intervalle : [7//47 , 13//87]
+
+Intervalle : [13//87 , 3//20]
+
+Intervalle : [3//20 , 14//93]
+
+Intervalle : [14//93 , 11//73]
+
+Intervalle : [11//73 , 8//53]
+
+Intervalle : [8//53 , 5//33]
+
+Intervalle : [5//33 , 12//79]
+
+Intervalle : [12//79 , 7//46]
+
+Intervalle : [7//46 , 9//59]
+
+Intervalle : [9//59 , 2//13]
+
+Intervalle : [2//13 , 17//110]
+
+Intervalle : [17//110 , 11//71]
+
+Intervalle : [11//71 , 7//45]
+
+Intervalle : [7//45 , 17//109]
+
+Intervalle : [17//109 , 5//32]
+
+Intervalle : [5//32 , 8//51]
+
+Intervalle : [8//51 , 3//19]
+
+Intervalle : [3//19 , 10//63]
+
+Intervalle : [10//63 , 7//44]
+
+Intervalle : [7//44 , 11//69]
+
+Intervalle : [11//69 , 4//25]
+
+Intervalle : [4//25 , 13//81]
+
+Intervalle : [13//81 , 5//31]
+
+Intervalle : [5//31 , 11//68]
+
+Intervalle : [11//68 , 6//37]
+
+Intervalle : [6//37 , 7//43]
+
+Intervalle : [7//43 , 15//92]
+
+Intervalle : [15//92 , 8//49]
+
+Intervalle : [8//49 , 9//55]
+
+Intervalle : [9//55 , 10//61]
+
+Intervalle : [10//61 , 12//73]
+
+Intervalle : [12//73 , 13//79]
+
+Intervalle : [13//79 , 14//85]
+
+Intervalle : [14//85 , 1//6]
+
+Intervalle : [1//6 , 15//89]
+
+Intervalle : [15//89 , 14//83]
+
+Intervalle : [14//83 , 13//77]
+
+Intervalle : [13//77 , 12//71]
+
+Intervalle : [12//71 , 10//59]
+
+Intervalle : [10//59 , 8//47]
+
+Intervalle : [8//47 , 15//88]
+
+Intervalle : [15//88 , 7//41]
+
+Intervalle : [7//41 , 20//117]
+
+Intervalle : [20//117 , 19//111]
+
+Intervalle : [19//111 , 6//35]
+
+Intervalle : [6//35 , 17//99]
+
+Intervalle : [17//99 , 11//64]
+
+Intervalle : [11//64 , 5//29]
+
+Intervalle : [5//29 , 19//110]
+
+Intervalle : [19//110 , 9//52]
+
+Intervalle : [9//52 , 17//98]
+
+Intervalle : [17//98 , 4//23]
+
+Intervalle : [4//23 , 7//40]
+
+Intervalle : [7//40 , 13//74]
+
+Intervalle : [13//74 , 16//91]
+
+Intervalle : [16//91 , 19//108]
+
+Intervalle : [19//108 , 3//17]
+
+Intervalle : [3//17 , 14//79]
+
+Intervalle : [14//79 , 8//45]
+
+Intervalle : [8//45 , 13//73]
+
+Intervalle : [13//73 , 5//28]
+
+Intervalle : [5//28 , 7//39]
+
+Intervalle : [7//39 , 16//89]
+
+Intervalle : [16//89 , 9//50]
+
+Intervalle : [9//50 , 11//61]
+
+Intervalle : [11//61 , 13//72]
+
+Intervalle : [13//72 , 15//83]
+
+Intervalle : [15//83 , 2//11]
+
+Intervalle : [2//11 , 19//104]
+
+Intervalle : [19//104 , 13//71]
+
+Intervalle : [13//71 , 11//60]
+
+Intervalle : [11//60 , 9//49]
+
+Intervalle : [9//49 , 7//38]
+
+Intervalle : [7//38 , 12//65]
+
+Intervalle : [12//65 , 5//27]
+
+Intervalle : [5//27 , 18//97]
+
+Intervalle : [18//97 , 8//43]
+
+Intervalle : [8//43 , 11//59]
+
+Intervalle : [11//59 , 3//16]
+
+Intervalle : [3//16 , 22//117]
+
+Intervalle : [22//117 , 16//85]
+
+Intervalle : [16//85 , 13//69]
+
+Intervalle : [13//69 , 10//53]
+
+Intervalle : [10//53 , 17//90]
+
+Intervalle : [17//90 , 7//37]
+
+Intervalle : [7//37 , 11//58]
+
+Intervalle : [11//58 , 15//79]
+
+Intervalle : [15//79 , 19//100]
+
+Intervalle : [19//100 , 4//21]
+
+Intervalle : [4//21 , 17//89]
+
+Intervalle : [17//89 , 9//47]
+
+Intervalle : [9//47 , 19//99]
+
+Intervalle : [19//99 , 5//26]
+
+Intervalle : [5//26 , 16//83]
+
+Intervalle : [16//83 , 11//57]
+
+Intervalle : [11//57 , 6//31]
+
+Intervalle : [6//31 , 13//67]
+
+Intervalle : [13//67 , 7//36]
+
+Intervalle : [7//36 , 23//118]
+
+Intervalle : [23//118 , 17//87]
+
+Intervalle : [17//87 , 9//46]
+
+Intervalle : [9//46 , 10//51]
+
+Intervalle : [10//51 , 14//71]
+
+Intervalle : [14//71 , 17//86]
+
+Intervalle : [17//86 , 19//96]
+
+Intervalle : [19//96 , 22//111]
+
+Intervalle : [22//111 , 1//5]
+
+Intervalle : [1//5 , 21//104]
+
+Intervalle : [21//104 , 15//74]
+
+Intervalle : [15//74 , 14//69]
+
+Intervalle : [14//69 , 13//64]
+
+Intervalle : [13//64 , 12//59]
+
+Intervalle : [12//59 , 23//113]
+
+Intervalle : [23//113 , 21//103]
+
+Intervalle : [21//103 , 19//93]
+
+Intervalle : [19//93 , 9//44]
+
+Intervalle : [9//44 , 8//39]
+
+Intervalle : [8//39 , 15//73]
+
+Intervalle : [15//73 , 7//34]
+
+Intervalle : [7//34 , 20//97]
+
+Intervalle : [20//97 , 6//29]
+
+Intervalle : [6//29 , 5//24]
+
+Intervalle : [5//24 , 14//67]
+
+Intervalle : [14//67 , 23//110]
+
+Intervalle : [23//110 , 9//43]
+
+Intervalle : [9//43 , 4//19]
+
+Intervalle : [4//19 , 23//109]
+
+Intervalle : [23//109 , 15//71]
+
+Intervalle : [15//71 , 11//52]
+
+Intervalle : [11//52 , 7//33]
+
+Intervalle : [7//33 , 17//80]
+
+Intervalle : [17//80 , 10//47]
+
+Intervalle : [10//47 , 13//61]
+
+Intervalle : [13//61 , 25//117]
+
+Intervalle : [25//117 , 3//14]
+
+Intervalle : [3//14 , 23//107]
+
+Intervalle : [23//107 , 20//93]
+
+Intervalle : [20//93 , 8//37]
+
+Intervalle : [8//37 , 13//60]
+
+Intervalle : [13//60 , 18//83]
+
+Intervalle : [18//83 , 5//23]
+
+Intervalle : [5//23 , 17//78]
+
+Intervalle : [17//78 , 12//55]
+
+Intervalle : [12//55 , 26//119]
+
+Intervalle : [26//119 , 7//32]
+
+Intervalle : [7//32 , 9//41]
+
+Intervalle : [9//41 , 11//50]
+
+Intervalle : [11//50 , 15//68]
+
+Intervalle : [15//68 , 17//77]
+
+Intervalle : [17//77 , 23//104]
+
+Intervalle : [23//104 , 2//9]
+
+Intervalle : [2//9 , 27//121]
+
+Intervalle : [27//121 , 25//112]
+
+Intervalle : [25//112 , 21//94]
+
+Intervalle : [21//94 , 19//85]
+
+Intervalle : [19//85 , 17//76]
+
+Intervalle : [17//76 , 11//49]
+
+Intervalle : [11//49 , 20//89]
+
+Intervalle : [20//89 , 9//40]
+
+Intervalle : [9//40 , 16//71]
+
+Intervalle : [16//71 , 7//31]
+
+Intervalle : [7//31 , 26//115]
+
+Intervalle : [26//115 , 19//84]
+
+Intervalle : [19//84 , 22//97]
+
+Intervalle : [22//97 , 27//119]
+
+Intervalle : [27//119 , 5//22]
+
+Intervalle : [5//22 , 13//57]
+
+Intervalle : [13//57 , 8//35]
+
+Intervalle : [8//35 , 11//48]
+
+Intervalle : [11//48 , 25//109]
+
+Intervalle : [25//109 , 14//61]
+
+Intervalle : [14//61 , 17//74]
+
+Intervalle : [17//74 , 3//13]
+
+Intervalle : [3//13 , 25//108]
+
+Intervalle : [25//108 , 16//69]
+
+Intervalle : [16//69 , 10//43]
+
+Intervalle : [10//43 , 7//30]
+
+Intervalle : [7//30 , 18//77]
+
+Intervalle : [18//77 , 11//47]
+
+Intervalle : [11//47 , 26//111]
+
+Intervalle : [26//111 , 15//64]
+
+Intervalle : [15//64 , 23//98]
+
+Intervalle : [23//98 , 4//17]
+
+Intervalle : [4//17 , 17//72]
+
+Intervalle : [17//72 , 13//55]
+
+Intervalle : [13//55 , 9//38]
+
+Intervalle : [9//38 , 14//59]
+
+Intervalle : [14//59 , 19//80]
+
+Intervalle : [19//80 , 24//101]
+
+Intervalle : [24//101 , 5//21]
+
+Intervalle : [5//21 , 26//109]
+
+Intervalle : [26//109 , 23//96]
+
+Intervalle : [23//96 , 6//25]
+
+Intervalle : [6//25 , 13//54]
+
+Intervalle : [13//54 , 20//83]
+
+Intervalle : [20//83 , 7//29]
+
+Intervalle : [7//29 , 15//62]
+
+Intervalle : [15//62 , 8//33]
+
+Intervalle : [8//33 , 9//37]
+
+Intervalle : [9//37 , 28//115]
+
+Intervalle : [28//115 , 10//41]
+
+Intervalle : [10//41 , 12//49]
+
+Intervalle : [12//49 , 13//53]
+
+Intervalle : [13//53 , 14//57]
+
+Intervalle : [14//57 , 29//118]
+
+Intervalle : [29//118 , 15//61]
+
+Intervalle : [15//61 , 21//85]
+
+Intervalle : [21//85 , 24//97]
+
+Intervalle : [24//97 , 26//105]
+
+Intervalle : [26//105 , 1//4]
+
+Intervalle : [1//4 , 26//103]
+
+Intervalle : [26//103 , 20//79]
+
+Intervalle : [20//79 , 19//75]
+
+Intervalle : [19//75 , 18//71]
+
+Intervalle : [18//71 , 17//67]
+
+Intervalle : [17//67 , 15//59]
+
+Intervalle : [15//59 , 14//55]
+
+Intervalle : [14//55 , 13//51]
+
+Intervalle : [13//51 , 25//98]
+
+Intervalle : [25//98 , 12//47]
+
+Intervalle : [12//47 , 11//43]
+
+Intervalle : [11//43 , 21//82]
+
+Intervalle : [21//82 , 9//35]
+
+Intervalle : [9//35 , 25//97]
+
+Intervalle : [25//97 , 8//31]
+
+Intervalle : [8//31 , 23//89]
+
+Intervalle : [23//89 , 7//27]
+
+Intervalle : [7//27 , 6//23]
+
+Intervalle : [6//23 , 17//65]
+
+Intervalle : [17//65 , 28//107]
+
+Intervalle : [28//107 , 5//19]
+
+Intervalle : [5//19 , 29//110]
+
+Intervalle : [29//110 , 9//34]
+
+Intervalle : [9//34 , 17//64]
+
+Intervalle : [17//64 , 29//109]
+
+Intervalle : [29//109 , 4//15]
+
+Intervalle : [4//15 , 19//71]
+
+Intervalle : [19//71 , 15//56]
+
+Intervalle : [15//56 , 11//41]
+
+Intervalle : [11//41 , 18//67]
+
+Intervalle : [18//67 , 7//26]
+
+Intervalle : [7//26 , 10//37]
+
+Intervalle : [10//37 , 23//85]
+
+Intervalle : [23//85 , 13//48]
+
+Intervalle : [13//48 , 16//59]
+
+Intervalle : [16//59 , 19//70]
+
+Intervalle : [19//70 , 22//81]
+
+Intervalle : [22//81 , 3//11]
+
+Intervalle : [3//11 , 32//117]
+
+Intervalle : [32//117 , 17//62]
+
+Intervalle : [17//62 , 31//113]
+
+Intervalle : [31//113 , 14//51]
+
+Intervalle : [14//51 , 25//91]
+
+Intervalle : [25//91 , 11//40]
+
+Intervalle : [11//40 , 19//69]
+
+Intervalle : [19//69 , 27//98]
+
+Intervalle : [27//98 , 8//29]
+
+Intervalle : [8//29 , 21//76]
+
+Intervalle : [21//76 , 34//123]
+
+Intervalle : [34//123 , 28//101]
+
+Intervalle : [28//101 , 5//18]
+
+Intervalle : [5//18 , 32//115]
+
+Intervalle : [32//115 , 27//97]
+
+Intervalle : [27//97 , 17//61]
+
+Intervalle : [17//61 , 12//43]
+
+Intervalle : [12//43 , 19//68]
+
+Intervalle : [19//68 , 26//93]
+
+Intervalle : [26//93 , 9//32]
+
+Intervalle : [9//32 , 11//39]
+
+Intervalle : [11//39 , 13//46]
+
+Intervalle : [13//46 , 17//60]
+
+Intervalle : [17//60 , 19//67]
+
+Intervalle : [19//67 , 23//81]
+
+Intervalle : [23//81 , 25//88]
+
+Intervalle : [25//88 , 2//7]
+
+Intervalle : [2//7 , 31//108]
+
+Intervalle : [31//108 , 29//101]
+
+Intervalle : [29//101 , 23//80]
+
+Intervalle : [23//80 , 17//59]
+
+Intervalle : [17//59 , 13//45]
+
+Intervalle : [13//45 , 11//38]
+
+Intervalle : [11//38 , 29//100]
+
+Intervalle : [29//100 , 9//31]
+
+Intervalle : [9//31 , 34//117]
+
+Intervalle : [34//117 , 16//55]
+
+Intervalle : [16//55 , 30//103]
+
+Intervalle : [30//103 , 7//24]
+
+Intervalle : [7//24 , 31//106]
+
+Intervalle : [31//106 , 12//41]
+
+Intervalle : [12//41 , 22//75]
+
+Intervalle : [22//75 , 37//126]
+
+Intervalle : [37//126 , 5//17]
+
+Intervalle : [5//17 , 18//61]
+
+Intervalle : [18//61 , 13//44]
+
+Intervalle : [13//44 , 21//71]
+
+Intervalle : [21//71 , 29//98]
+
+Intervalle : [29//98 , 8//27]
+
+Intervalle : [8//27 , 30//101]
+
+Intervalle : [30//101 , 11//37]
+
+Intervalle : [11//37 , 36//121]
+
+Intervalle : [36//121 , 14//47]
+
+Intervalle : [14//47 , 31//104]
+
+Intervalle : [31//104 , 17//57]
+
+Intervalle : [17//57 , 20//67]
+
+Intervalle : [20//67 , 3//10]
+
+Intervalle : [3//10 , 34//113]
+
+Intervalle : [34//113 , 28//93]
+
+Intervalle : [28//93 , 16//53]
+
+Intervalle : [16//53 , 29//96]
+
+Intervalle : [29//96 , 10//33]
+
+Intervalle : [10//33 , 27//89]
+
+Intervalle : [27//89 , 17//56]
+
+Intervalle : [17//56 , 7//23]
+
+Intervalle : [7//23 , 18//59]
+
+Intervalle : [18//59 , 11//36]
+
+Intervalle : [11//36 , 26//85]
+
+Intervalle : [26//85 , 34//111]
+
+Intervalle : [34//111 , 19//62]
+
+Intervalle : [19//62 , 27//88]
+
+Intervalle : [27//88 , 4//13]
+
+Intervalle : [4//13 , 29//94]
+
+Intervalle : [29//94 , 30//97]
+
+Intervalle : [30//97 , 13//42]
+
+Intervalle : [13//42 , 31//100]
+
+Intervalle : [31//100 , 14//45]
+
+Intervalle : [14//45 , 19//61]
+
+Intervalle : [19//61 , 29//93]
+
+Intervalle : [29//93 , 34//109]
+
+Intervalle : [34//109 , 5//16]
+
+Intervalle : [5//16 , 41//131]
+
+Intervalle : [41//131 , 21//67]
+
+Intervalle : [21//67 , 11//35]
+
+Intervalle : [11//35 , 28//89]
+
+Intervalle : [28//89 , 29//92]
+
+Intervalle : [29//92 , 6//19]
+
+Intervalle : [6//19 , 32//101]
+
+Intervalle : [32//101 , 13//41]
+
+Intervalle : [13//41 , 27//85]
+
+Intervalle : [27//85 , 7//22]
+
+Intervalle : [7//22 , 22//69]
+
+Intervalle : [22//69 , 15//47]
+
+Intervalle : [15//47 , 8//25]
+
+Intervalle : [8//25 , 33//103]
+
+Intervalle : [33//103 , 17//53]
+
+Intervalle : [17//53 , 26//81]
+
+Intervalle : [26//81 , 9//28]
+
+Intervalle : [9//28 , 29//90]
+
+Intervalle : [29//90 , 10//31]
+
+Intervalle : [10//31 , 21//65]
+
+Intervalle : [21//65 , 32//99]
+
+Intervalle : [32//99 , 11//34]
+
+Intervalle : [11//34 , 35//108]
+
+Intervalle : [35//108 , 12//37]
+
+Intervalle : [12//37 , 25//77]
+
+Intervalle : [25//77 , 13//40]
+
+Intervalle : [13//40 , 27//83]
+
+Intervalle : [27//83 , 14//43]
+
+Intervalle : [14//43 , 44//135]
+
+Intervalle : [44//135 , 15//46]
+
+Intervalle : [15//46 , 17//52]
+
+Intervalle : [17//52 , 18//55]
+
+Intervalle : [18//55 , 37//113]
+
+Intervalle : [37//113 , 19//58]
+
+Intervalle : [19//58 , 43//131]
+
+Intervalle : [43//131 , 22//67]
+
+Intervalle : [22//67 , 25//76]
+
+Intervalle : [25//76 , 27//82]
+
+Intervalle : [27//82 , 28//85]
+
+Intervalle : [28//85 , 29//88]
+
+Intervalle : [29//88 , 30//91]
+
+Intervalle : [30//91 , 32//97]
+
+Intervalle : [32//97 , 33//100]
+
+Intervalle : [33//100 , 39//118]
+
+Intervalle : [39//118 , 46//139]
+
+Intervalle : [46//139 , 1//3]
+
+Intervalle : [1//3 , 43//128]
+
+Intervalle : [43//128 , 34//101]
+
+Intervalle : [34//101 , 31//92]
+
+Intervalle : [31//92 , 26//77]
+
+Intervalle : [26//77 , 21//62]
+
+Intervalle : [21//62 , 20//59]
+
+Intervalle : [20//59 , 19//56]
+
+Intervalle : [19//56 , 33//97]
+
+Intervalle : [33//97 , 16//47]
+
+Intervalle : [16//47 , 14//41]
+
+Intervalle : [14//41 , 13//38]
+
+Intervalle : [13//38 , 12//35]
+
+Intervalle : [12//35 , 23//67]
+
+Intervalle : [23//67 , 11//32]
+
+Intervalle : [11//32 , 32//93]
+
+Intervalle : [32//93 , 21//61]
+
+Intervalle : [21//61 , 31//90]
+
+Intervalle : [31//90 , 10//29]
+
+Intervalle : [10//29 , 29//84]
+
+Intervalle : [29//84 , 19//55]
+
+Intervalle : [19//55 , 9//26]
+
+Intervalle : [9//26 , 26//75]
+
+Intervalle : [26//75 , 17//49]
+
+Intervalle : [17//49 , 25//72]
+
+Intervalle : [25//72 , 33//95]
+
+Intervalle : [33//95 , 8//23]
+
+Intervalle : [8//23 , 23//66]
+
+Intervalle : [23//66 , 15//43]
+
+Intervalle : [15//43 , 7//20]
+
+Intervalle : [7//20 , 20//57]
+
+Intervalle : [20//57 , 13//37]
+
+Intervalle : [13//37 , 32//91]
+
+Intervalle : [32//91 , 6//17]
+
+Intervalle : [6//17 , 41//116]
+
+Intervalle : [41//116 , 35//99]
+
+Intervalle : [35//99 , 17//48]
+
+Intervalle : [17//48 , 11//31]
+
+Intervalle : [11//31 , 27//76]
+
+Intervalle : [27//76 , 16//45]
+
+Intervalle : [16//45 , 36//101]
+
+Intervalle : [36//101 , 5//14]
+
+Intervalle : [5//14 , 29//81]
+
+Intervalle : [29//81 , 24//67]
+
+Intervalle : [24//67 , 19//53]
+
+Intervalle : [19//53 , 14//39]
+
+Intervalle : [14//39 , 23//64]
+
+Intervalle : [23//64 , 22//61]
+
+Intervalle : [22//61 , 13//36]
+
+Intervalle : [13//36 , 17//47]
+
+Intervalle : [17//47 , 21//58]
+
+Intervalle : [21//58 , 4//11]
+
+Intervalle : [4//11 , 43//118]
+
+Intervalle : [43//118 , 35//96]
+
+Intervalle : [35//96 , 31//85]
+
+Intervalle : [31//85 , 15//41]
+
+Intervalle : [15//41 , 41//112]
+
+Intervalle : [41//112 , 11//30]
+
+Intervalle : [11//30 , 7//19]
+
+Intervalle : [7//19 , 24//65]
+
+Intervalle : [24//65 , 10//27]
+
+Intervalle : [10//27 , 53//143]
+
+Intervalle : [53//143 , 23//62]
+
+Intervalle : [23//62 , 13//35]
+
+Intervalle : [13//35 , 55//148]
+
+Intervalle : [55//148 , 16//43]
+
+Intervalle : [16//43 , 28//75]
+
+Intervalle : [28//75 , 37//99]
+
+Intervalle : [37//99 , 3//8]
+
+Intervalle : [3//8 , 29//77]
+
+Intervalle : [29//77 , 26//69]
+
+Intervalle : [26//69 , 23//61]
+
+Intervalle : [23//61 , 20//53]
+
+Intervalle : [20//53 , 17//45]
+
+Intervalle : [17//45 , 31//82]
+
+Intervalle : [31//82 , 14//37]
+
+Intervalle : [14//37 , 25//66]
+
+Intervalle : [25//66 , 36//95]
+
+Intervalle : [36//95 , 11//29]
+
+Intervalle : [11//29 , 30//79]
+
+Intervalle : [30//79 , 8//21]
+
+Intervalle : [8//21 , 21//55]
+
+Intervalle : [21//55 , 18//47]
+
+Intervalle : [18//47 , 28//73]
+
+Intervalle : [28//73 , 33//86]
+
+Intervalle : [33//86 , 5//13]
+
+Intervalle : [5//13 , 42//109]
+
+Intervalle : [42//109 , 32//83]
+
+Intervalle : [32//83 , 22//57]
+
+Intervalle : [22//57 , 12//31]
+
+Intervalle : [12//31 , 31//80]
+
+Intervalle : [31//80 , 19//49]
+
+Intervalle : [19//49 , 26//67]
+
+Intervalle : [26//67 , 7//18]
+
+Intervalle : [7//18 , 23//59]
+
+Intervalle : [23//59 , 39//100]
+
+Intervalle : [39//100 , 16//41]
+
+Intervalle : [16//41 , 41//105]
+
+Intervalle : [41//105 , 9//23]
+
+Intervalle : [9//23 , 38//97]
+
+Intervalle : [38//97 , 20//51]
+
+Intervalle : [20//51 , 24//61]
+
+Intervalle : [24//61 , 13//33]
+
+Intervalle : [13//33 , 15//38]
+
+Intervalle : [15//38 , 17//43]
+
+Intervalle : [17//43 , 19//48]
+
+Intervalle : [19//48 , 27//68]
+
+Intervalle : [27//68 , 35//88]
+
+Intervalle : [35//88 , 43//108]
+
+Intervalle : [43//108 , 2//5]
+
+Intervalle : [2//5 , 37//92]
+
+Intervalle : [37//92 , 35//87]
+
+Intervalle : [35//87 , 33//82]
+
+Intervalle : [33//82 , 29//72]
+
+Intervalle : [29//72 , 27//67]
+
+Intervalle : [27//67 , 23//57]
+
+Intervalle : [23//57 , 21//52]
+
+Intervalle : [21//52 , 17//42]
+
+Intervalle : [17//42 , 15//37]
+
+Intervalle : [15//37 , 28//69]
+
+Intervalle : [28//69 , 13//32]
+
+Intervalle : [13//32 , 24//59]
+
+Intervalle : [24//59 , 11//27]
+
+Intervalle : [11//27 , 38//93]
+
+Intervalle : [38//93 , 9//22]
+
+Intervalle : [9//22 , 52//127]
+
+Intervalle : [52//127 , 25//61]
+
+Intervalle : [25//61 , 16//39]
+
+Intervalle : [16//39 , 37//90]
+
+Intervalle : [37//90 , 7//17]
+
+Intervalle : [7//17 , 47//114]
+
+Intervalle : [47//114 , 59//143]
+
+Intervalle : [59//143 , 26//63]
+
+Intervalle : [26//63 , 19//46]
+
+Intervalle : [19//46 , 12//29]
+
+Intervalle : [12//29 , 17//41]
+
+Intervalle : [17//41 , 56//135]
+
+Intervalle : [56//135 , 22//53]
+
+Intervalle : [22//53 , 5//12]
+
+Intervalle : [5//12 , 28//67]
+
+Intervalle : [28//67 , 31//74]
+
+Intervalle : [31//74 , 13//31]
+
+Intervalle : [13//31 , 45//107]
+
+Intervalle : [45//107 , 53//126]
+
+Intervalle : [53//126 , 8//19]
+
+Intervalle : [8//19 , 43//102]
+
+Intervalle : [43//102 , 35//83]
+
+Intervalle : [35//83 , 27//64]
+
+Intervalle : [27//64 , 19//45]
+
+Intervalle : [19//45 , 30//71]
+
+Intervalle : [30//71 , 11//26]
+
+Intervalle : [11//26 , 36//85]
+
+Intervalle : [36//85 , 25//59]
+
+Intervalle : [25//59 , 53//125]
+
+Intervalle : [53//125 , 14//33]
+
+Intervalle : [14//33 , 17//40]
+
+Intervalle : [17//40 , 20//47]
+
+Intervalle : [20//47 , 26//61]
+
+Intervalle : [26//61 , 62//145]
+
+Intervalle : [62//145 , 3//7]
+
+Intervalle : [3//7 , 37//86]
+
+Intervalle : [37//86 , 34//79]
+
+Intervalle : [34//79 , 25//58]
+
+Intervalle : [25//58 , 22//51]
+
+Intervalle : [22//51 , 19//44]
+
+Intervalle : [19//44 , 67//155]
+
+Intervalle : [67//155 , 16//37]
+
+Intervalle : [16//37 , 29//67]
+
+Intervalle : [29//67 , 13//30]
+
+Intervalle : [13//30 , 33//76]
+
+Intervalle : [33//76 , 10//23]
+
+Intervalle : [10//23 , 57//131]
+
+Intervalle : [57//131 , 38//87]
+
+Intervalle : [38//87 , 45//103]
+
+Intervalle : [45//103 , 46//105]
+
+Intervalle : [46//105 , 61//139]
+
+Intervalle : [61//139 , 18//41]
+
+Intervalle : [18//41 , 29//66]
+
+Intervalle : [29//66 , 51//116]
+
+Intervalle : [51//116 , 11//25]
+
+Intervalle : [11//25 , 59//134]
+
+Intervalle : [59//134 , 37//84]
+
+Intervalle : [37//84 , 15//34]
+
+Intervalle : [15//34 , 53//120]
+
+Intervalle : [53//120 , 19//43]
+
+Intervalle : [19//43 , 50//113]
+
+Intervalle : [50//113 , 27//61]
+
+Intervalle : [27//61 , 31//70]
+
+Intervalle : [31//70 , 43//97]
+
+Intervalle : [43//97 , 59//133]
+
+Intervalle : [59//133 , 4//9]
+
+Intervalle : [4//9 , 37//83]
+
+Intervalle : [37//83 , 29//65]
+
+Intervalle : [29//65 , 54//121]
+
+Intervalle : [54//121 , 25//56]
+
+Intervalle : [25//56 , 38//85]
+
+Intervalle : [38//85 , 17//38]
+
+Intervalle : [17//38 , 13//29]
+
+Intervalle : [13//29 , 48//107]
+
+Intervalle : [48//107 , 9//20]
+
+Intervalle : [9//20 , 23//51]
+
+Intervalle : [23//51 , 14//31]
+
+Intervalle : [14//31 , 43//95]
+
+Intervalle : [43//95 , 34//75]
+
+Intervalle : [34//75 , 49//108]
+
+Intervalle : [49//108 , 5//11]
+
+Intervalle : [5//11 , 36//79]
+
+Intervalle : [36//79 , 26//57]
+
+Intervalle : [26//57 , 16//35]
+
+Intervalle : [16//35 , 43//94]
+
+Intervalle : [43//94 , 11//24]
+
+Intervalle : [11//24 , 40//87]
+
+Intervalle : [40//87 , 23//50]
+
+Intervalle : [23//50 , 35//76]
+
+Intervalle : [35//76 , 6//13]
+
+Intervalle : [6//13 , 25//54]
+
+Intervalle : [25//54 , 69//149]
+
+Intervalle : [69//149 , 19//41]
+
+Intervalle : [19//41 , 20//43]
+
+Intervalle : [20//43 , 34//73]
+
+Intervalle : [34//73 , 41//88]
+
+Intervalle : [41//88 , 7//15]
+
+Intervalle : [7//15 , 50//107]
+
+Intervalle : [50//107 , 22//47]
+
+Intervalle : [22//47 , 37//79]
+
+Intervalle : [37//79 , 15//32]
+
+Intervalle : [15//32 , 23//49]
+
+Intervalle : [23//49 , 47//100]
+
+Intervalle : [47//100 , 8//17]
+
+Intervalle : [8//17 , 49//104]
+
+Intervalle : [49//104 , 17//36]
+
+Intervalle : [17//36 , 26//55]
+
+Intervalle : [26//55 , 35//74]
+
+Intervalle : [35//74 , 44//93]
+
+Intervalle : [44//93 , 9//19]
+
+Intervalle : [9//19 , 28//59]
+
+Intervalle : [28//59 , 19//40]
+
+Intervalle : [19//40 , 39//82]
+
+Intervalle : [39//82 , 10//21]
+
+Intervalle : [10//21 , 31//65]
+
+Intervalle : [31//65 , 52//109]
+
+Intervalle : [52//109 , 21//44]
+
+Intervalle : [21//44 , 43//90]
+
+Intervalle : [43//90 , 54//113]
+
+Intervalle : [54//113 , 11//23]
+
+Intervalle : [11//23 , 45//94]
+
+Intervalle : [45//94 , 34//71]
+
+Intervalle : [34//71 , 12//25]
+
+Intervalle : [12//25 , 25//52]
+
+Intervalle : [25//52 , 41//85]
+
+Intervalle : [41//85 , 14//29]
+
+Intervalle : [14//29 , 44//91]
+
+Intervalle : [44//91 , 15//31]
+
+Intervalle : [15//31 , 33//68]
+
+Intervalle : [33//68 , 35//72]
+
+Intervalle : [35//72 , 18//37]
+
+Intervalle : [18//37 , 55//113]
+
+Intervalle : [55//113 , 19//39]
+
+Intervalle : [19//39 , 20//41]
+
+Intervalle : [20//41 , 43//88]
+
+Intervalle : [43//88 , 22//45]
+
+Intervalle : [22//45 , 25//51]
+
+Intervalle : [25//51 , 26//53]
+
+Intervalle : [26//53 , 28//57]
+
+Intervalle : [28//57 , 30//61]
+
+Intervalle : [30//61 , 31//63]
+
+Intervalle : [31//63 , 34//69]
+
+Intervalle : [34//69 , 36//73]
+
+Intervalle : [36//73 , 37//75]
+
+Intervalle : [37//75 , 61//123]
+
+Intervalle : [61//123 , 1//2]
+
+Intervalle : [1//2 , 51//101]
+
+Intervalle : [51//101 , 43//85]
+
+Intervalle : [43//85 , 34//67]
+
+Intervalle : [34//67 , 32//63]
+
+Intervalle : [32//63 , 28//55]
+
+Intervalle : [28//55 , 27//53]
+
+Intervalle : [27//53 , 25//49]
+
+Intervalle : [25//49 , 24//47]
+
+Intervalle : [24//47 , 23//45]
+
+Intervalle : [23//45 , 21//41]
+
+Intervalle : [21//41 , 20//39]
+
+Intervalle : [20//39 , 19//37]
+
+Intervalle : [19//37 , 37//72]
+
+Intervalle : [37//72 , 18//35]
+
+Intervalle : [18//35 , 35//68]
+
+Intervalle : [35//68 , 33//64]
+
+Intervalle : [33//64 , 16//31]
+
+Intervalle : [16//31 , 15//29]
+
+Intervalle : [15//29 , 59//114]
+
+Intervalle : [59//114 , 73//141]
+
+Intervalle : [73//141 , 29//56]
+
+Intervalle : [29//56 , 43//83]
+
+Intervalle : [43//83 , 14//27]
+
+Intervalle : [14//27 , 55//106]
+
+Intervalle : [55//106 , 27//52]
+
+Intervalle : [27//52 , 67//129]
+
+Intervalle : [67//129 , 13//25]
+
+Intervalle : [13//25 , 38//73]
+
+Intervalle : [38//73 , 25//48]
+
+Intervalle : [25//48 , 37//71]
+
+Intervalle : [37//71 , 12//23]
+
+Intervalle : [12//23 , 59//113]
+
+Intervalle : [59//113 , 11//21]
+
+Intervalle : [11//21 , 43//82]
+
+Intervalle : [43//82 , 32//61]
+
+Intervalle : [32//61 , 21//40]
+
+Intervalle : [21//40 , 10//19]
+
+Intervalle : [10//19 , 49//93]
+
+Intervalle : [49//93 , 29//55]
+
+Intervalle : [29//55 , 19//36]
+
+Intervalle : [19//36 , 9//17]
+
+Intervalle : [9//17 , 26//49]
+
+Intervalle : [26//49 , 33//62]
+
+Intervalle : [33//62 , 63//118]
+
+Intervalle : [63//118 , 39//73]
+
+Intervalle : [39//73 , 31//58]
+
+Intervalle : [31//58 , 38//71]
+
+Intervalle : [38//71 , 15//28]
+
+Intervalle : [15//28 , 37//69]
+
+Intervalle : [37//69 , 22//41]
+
+Intervalle : [22//41 , 7//13]
+
+Intervalle : [7//13 , 27//50]
+
+Intervalle : [27//50 , 46//85]
+
+Intervalle : [46//85 , 13//24]
+
+Intervalle : [13//24 , 32//59]
+
+Intervalle : [32//59 , 51//94]
+
+Intervalle : [51//94 , 44//81]
+
+Intervalle : [44//81 , 6//11]
+
+Intervalle : [6//11 , 23//42]
+
+Intervalle : [23//42 , 45//82]
+
+Intervalle : [45//82 , 67//122]
+
+Intervalle : [67//122 , 11//20]
+
+Intervalle : [11//20 , 43//78]
+
+Intervalle : [43//78 , 16//29]
+
+Intervalle : [16//29 , 31//56]
+
+Intervalle : [31//56 , 5//9]
+
+Intervalle : [5//9 , 74//133]
+
+Intervalle : [74//133 , 54//97]
+
+Intervalle : [54//97 , 29//52]
+
+Intervalle : [29//52 , 24//43]
+
+Intervalle : [24//43 , 43//77]
+
+Intervalle : [43//77 , 62//111]
+
+Intervalle : [62//111 , 33//59]
+
+Intervalle : [33//59 , 47//84]
+
+Intervalle : [47//84 , 14//25]
+
+Intervalle : [14//25 , 9//16]
+
+Intervalle : [9//16 , 58//103]
+
+Intervalle : [58//103 , 49//87]
+
+Intervalle : [49//87 , 31//55]
+
+Intervalle : [31//55 , 22//39]
+
+Intervalle : [22//39 , 83//147]
+
+Intervalle : [83//147 , 30//53]
+
+Intervalle : [30//53 , 47//83]
+
+Intervalle : [47//83 , 64//113]
+
+Intervalle : [64//113 , 17//30]
+
+Intervalle : [17//30 , 55//97]
+
+Intervalle : [55//97 , 21//37]
+
+Intervalle : [21//37 , 88//155]
+
+Intervalle : [88//155 , 67//118]
+
+Intervalle : [67//118 , 29//51]
+
+Intervalle : [29//51 , 33//58]
+
+Intervalle : [33//58 , 65//114]
+
+Intervalle : [65//114 , 4//7]
+
+Intervalle : [4//7 , 63//110]
+
+Intervalle : [63//110 , 31//54]
+
+Intervalle : [31//54 , 27//47]
+
+Intervalle : [27//47 , 23//40]
+
+Intervalle : [23//40 , 19//33]
+
+Intervalle : [19//33 , 72//125]
+
+Intervalle : [72//125 , 15//26]
+
+Intervalle : [15//26 , 41//71]
+
+Intervalle : [41//71 , 37//64]
+
+Intervalle : [37//64 , 11//19]
+
+Intervalle : [11//19 , 51//88]
+
+Intervalle : [51//88 , 40//69]
+
+Intervalle : [40//69 , 29//50]
+
+Intervalle : [29//50 , 18//31]
+
+Intervalle : [18//31 , 57//98]
+
+Intervalle : [57//98 , 32//55]
+
+Intervalle : [32//55 , 60//103]
+
+Intervalle : [60//103 , 7//12]
+
+Intervalle : [7//12 , 31//53]
+
+Intervalle : [31//53 , 24//41]
+
+Intervalle : [24//41 , 17//29]
+
+Intervalle : [17//29 , 37//63]
+
+Intervalle : [37//63 , 10//17]
+
+Intervalle : [10//17 , 59//100]
+
+Intervalle : [59//100 , 36//61]
+
+Intervalle : [36//61 , 13//22]
+
+Intervalle : [13//22 , 55//93]
+
+Intervalle : [55//93 , 42//71]
+
+Intervalle : [42//71 , 29//49]
+
+Intervalle : [29//49 , 45//76]
+
+Intervalle : [45//76 , 61//103]
+
+Intervalle : [61//103 , 16//27]
+
+Intervalle : [16//27 , 19//32]
+
+Intervalle : [19//32 , 25//42]
+
+Intervalle : [25//42 , 28//47]
+
+Intervalle : [28//47 , 37//62]
+
+Intervalle : [37//62 , 46//77]
+
+Intervalle : [46//77 , 61//102]
+
+Intervalle : [61//102 , 3//5]
+
+Intervalle : [3//5 , 53//88]
+
+Intervalle : [53//88 , 41//68]
+
+Intervalle : [41//68 , 35//58]
+
+Intervalle : [35//58 , 29//48]
+
+Intervalle : [29//48 , 55//91]
+
+Intervalle : [55//91 , 49//81]
+
+Intervalle : [49//81 , 23//38]
+
+Intervalle : [23//38 , 83//137]
+
+Intervalle : [83//137 , 17//28]
+
+Intervalle : [17//28 , 65//107]
+
+Intervalle : [65//107 , 31//51]
+
+Intervalle : [31//51 , 45//74]
+
+Intervalle : [45//74 , 14//23]
+
+Intervalle : [14//23 , 64//105]
+
+Intervalle : [64//105 , 61//100]
+
+Intervalle : [61//100 , 47//77]
+
+Intervalle : [47//77 , 30//49]
+
+Intervalle : [30//49 , 19//31]
+
+Intervalle : [19//31 , 27//44]
+
+Intervalle : [27//44 , 8//13]
+
+Intervalle : [8//13 , 29//47]
+
+Intervalle : [29//47 , 21//34]
+
+Intervalle : [21//34 , 13//21]
+
+Intervalle : [13//21 , 70//113]
+
+Intervalle : [70//113 , 31//50]
+
+Intervalle : [31//50 , 18//29]
+
+Intervalle : [18//29 , 23//37]
+
+Intervalle : [23//37 , 28//45]
+
+Intervalle : [28//45 , 33//53]
+
+Intervalle : [33//53 , 53//85]
+
+Intervalle : [53//85 , 78//125]
+
+Intervalle : [78//125 , 5//8]
+
+Intervalle : [5//8 , 37//59]
+
+Intervalle : [37//59 , 71//113]
+
+Intervalle : [71//113 , 17//27]
+
+Intervalle : [17//27 , 41//65]
+
+Intervalle : [41//65 , 12//19]
+
+Intervalle : [12//19 , 43//68]
+
+Intervalle : [43//68 , 19//30]
+
+Intervalle : [19//30 , 33//52]
+
+Intervalle : [33//52 , 73//115]
+
+Intervalle : [73//115 , 7//11]
+
+Intervalle : [7//11 , 81//127]
+
+Intervalle : [81//127 , 62//97]
+
+Intervalle : [62//97 , 39//61]
+
+Intervalle : [39//61 , 41//64]
+
+Intervalle : [41//64 , 25//39]
+
+Intervalle : [25//39 , 34//53]
+
+Intervalle : [34//53 , 70//109]
+
+Intervalle : [70//109 , 9//14]
+
+Intervalle : [9//14 , 20//31]
+
+Intervalle : [20//31 , 31//48]
+
+Intervalle : [31//48 , 11//17]
+
+Intervalle : [11//17 , 68//105]
+
+Intervalle : [68//105 , 24//37]
+
+Intervalle : [24//37 , 13//20]
+
+Intervalle : [13//20 , 28//43]
+
+Intervalle : [28//43 , 71//109]
+
+Intervalle : [71//109 , 15//23]
+
+Intervalle : [15//23 , 32//49]
+
+Intervalle : [32//49 , 17//26]
+
+Intervalle : [17//26 , 36//55]
+
+Intervalle : [36//55 , 19//29]
+
+Intervalle : [19//29 , 40//61]
+
+Intervalle : [40//61 , 23//35]
+
+Intervalle : [23//35 , 73//111]
+
+Intervalle : [73//111 , 27//41]
+
+Intervalle : [27//41 , 29//44]
+
+Intervalle : [29//44 , 31//47]
+
+Intervalle : [31//47 , 39//59]
+
+Intervalle : [39//59 , 41//62]
+
+Intervalle : [41//62 , 92//139]
+
+Intervalle : [92//139 , 2//3]
+
+Intervalle : [2//3 , 85//127]
+
+Intervalle : [85//127 , 77//115]
+
+Intervalle : [77//115 , 53//79]
+
+Intervalle : [53//79 , 45//67]
+
+Intervalle : [45//67 , 35//52]
+
+Intervalle : [35//52 , 31//46]
+
+Intervalle : [31//46 , 60//89]
+
+Intervalle : [60//89 , 29//43]
+
+Intervalle : [29//43 , 27//40]
+
+Intervalle : [27//40 , 23//34]
+
+Intervalle : [23//34 , 86//127]
+
+Intervalle : [86//127 , 21//31]
+
+Intervalle : [21//31 , 59//87]
+
+Intervalle : [59//87 , 19//28]
+
+Intervalle : [19//28 , 55//81]
+
+Intervalle : [55//81 , 36//53]
+
+Intervalle : [36//53 , 83//122]
+
+Intervalle : [83//122 , 92//135]
+
+Intervalle : [92//135 , 15//22]
+
+Intervalle : [15//22 , 58//85]
+
+Intervalle : [58//85 , 28//41]
+
+Intervalle : [28//41 , 41//60]
+
+Intervalle : [41//60 , 13//19]
+
+Intervalle : [13//19 , 89//130]
+
+Intervalle : [89//130 , 87//127]
+
+Intervalle : [87//127 , 37//54]
+
+Intervalle : [37//54 , 57//83]
+
+Intervalle : [57//83 , 11//16]
+
+Intervalle : [11//16 , 31//45]
+
+Intervalle : [31//45 , 20//29]
+
+Intervalle : [20//29 , 38//55]
+
+Intervalle : [38//55 , 56//81]
+
+Intervalle : [56//81 , 9//13]
+
+Intervalle : [9//13 , 43//62]
+
+Intervalle : [43//62 , 25//36]
+
+Intervalle : [25//36 , 41//59]
+
+Intervalle : [41//59 , 57//82]
+
+Intervalle : [57//82 , 16//23]
+
+Intervalle : [16//23 , 55//79]
+
+Intervalle : [55//79 , 23//33]
+
+Intervalle : [23//33 , 76//109]
+
+Intervalle : [76//109 , 58//83]
+
+Intervalle : [58//83 , 7//10]
+
+Intervalle : [7//10 , 68//97]
+
+Intervalle : [68//97 , 33//47]
+
+Intervalle : [33//47 , 26//37]
+
+Intervalle : [26//37 , 64//91]
+
+Intervalle : [64//91 , 31//44]
+
+Intervalle : [31//44 , 55//78]
+
+Intervalle : [55//78 , 12//17]
+
+Intervalle : [12//17 , 29//41]
+
+Intervalle : [29//41 , 17//24]
+
+Intervalle : [17//24 , 73//103]
+
+Intervalle : [73//103 , 39//55]
+
+Intervalle : [39//55 , 22//31]
+
+Intervalle : [22//31 , 49//69]
+
+Intervalle : [49//69 , 27//38]
+
+Intervalle : [27//38 , 32//45]
+
+Intervalle : [32//45 , 37//52]
+
+Intervalle : [37//52 , 5//7]
+
+Intervalle : [5//7 , 73//102]
+
+Intervalle : [73//102 , 53//74]
+
+Intervalle : [53//74 , 38//53]
+
+Intervalle : [38//53 , 28//39]
+
+Intervalle : [28//39 , 23//32]
+
+Intervalle : [23//32 , 18//25]
+
+Intervalle : [18//25 , 49//68]
+
+Intervalle : [49//68 , 31//43]
+
+Intervalle : [31//43 , 44//61]
+
+Intervalle : [44//61 , 13//18]
+
+Intervalle : [13//18 , 47//65]
+
+Intervalle : [47//65 , 55//76]
+
+Intervalle : [55//76 , 79//109]
+
+Intervalle : [79//109 , 37//51]
+
+Intervalle : [37//51 , 8//11]
+
+Intervalle : [8//11 , 83//114]
+
+Intervalle : [83//114 , 75//103]
+
+Intervalle : [75//103 , 35//48]
+
+Intervalle : [35//48 , 62//85]
+
+Intervalle : [62//85 , 19//26]
+
+Intervalle : [19//26 , 68//93]
+
+Intervalle : [68//93 , 30//41]
+
+Intervalle : [30//41 , 41//56]
+
+Intervalle : [41//56 , 63//86]
+
+Intervalle : [63//86 , 74//101]
+
+Intervalle : [74//101 , 11//15]
+
+Intervalle : [11//15 , 36//49]
+
+Intervalle : [36//49 , 67//91]
+
+Intervalle : [67//91 , 14//19]
+
+Intervalle : [14//19 , 87//118]
+
+Intervalle : [87//118 , 59//80]
+
+Intervalle : [59//80 , 45//61]
+
+Intervalle : [45//61 , 31//42]
+
+Intervalle : [31//42 , 17//23]
+
+Intervalle : [17//23 , 37//50]
+
+Intervalle : [37//50 , 20//27]
+
+Intervalle : [20//27 , 43//58]
+
+Intervalle : [43//58 , 23//31]
+
+Intervalle : [23//31 , 49//66]
+
+Intervalle : [49//66 , 26//35]
+
+Intervalle : [26//35 , 29//39]
+
+Intervalle : [29//39 , 90//121]
+
+Intervalle : [90//121 , 61//82]
+
+Intervalle : [61//82 , 32//43]
+
+Intervalle : [32//43 , 91//122]
+
+Intervalle : [91//122 , 50//67]
+
+Intervalle : [50//67 , 56//75]
+
+Intervalle : [56//75 , 59//79]
+
+Intervalle : [59//79 , 68//91]
+
+Intervalle : [68//91 , 3//4]
+
+Intervalle : [3//4 , 64//85]
+
+Intervalle : [64//85 , 89//118]
+
+Intervalle : [89//118 , 40//53]
+
+Intervalle : [40//53 , 37//49]
+
+Intervalle : [37//49 , 28//37]
+
+Intervalle : [28//37 , 63//83]
+
+Intervalle : [63//83 , 19//25]
+
+Intervalle : [19//25 , 35//46]
+
+Intervalle : [35//46 , 16//21]
+
+Intervalle : [16//21 , 29//38]
+
+Intervalle : [29//38 , 13//17]
+
+Intervalle : [13//17 , 75//98]
+
+Intervalle : [75//98 , 49//64]
+
+Intervalle : [49//64 , 36//47]
+
+Intervalle : [36//47 , 23//30]
+
+Intervalle : [23//30 , 79//103]
+
+Intervalle : [79//103 , 56//73]
+
+Intervalle : [56//73 , 33//43]
+
+Intervalle : [33//43 , 10//13]
+
+Intervalle : [10//13 , 47//61]
+
+Intervalle : [47//61 , 37//48]
+
+Intervalle : [37//48 , 91//118]
+
+Intervalle : [91//118 , 27//35]
+
+Intervalle : [27//35 , 71//92]
+
+Intervalle : [71//92 , 44//57]
+
+Intervalle : [44//57 , 17//22]
+
+Intervalle : [17//22 , 24//31]
+
+Intervalle : [24//31 , 38//49]
+
+Intervalle : [38//49 , 66//85]
+
+Intervalle : [66//85 , 87//112]
+
+Intervalle : [87//112 , 7//9]
+
+Intervalle : [7//9 , 67//86]
+
+Intervalle : [67//86 , 39//50]
+
+Intervalle : [39//50 , 71//91]
+
+Intervalle : [71//91 , 89//114]
+
+Intervalle : [89//114 , 25//32]
+
+Intervalle : [25//32 , 68//87]
+
+Intervalle : [68//87 , 43//55]
+
+Intervalle : [43//55 , 18//23]
+
+Intervalle : [18//23 , 40//51]
+
+Intervalle : [40//51 , 51//65]
+
+Intervalle : [51//65 , 11//14]
+
+Intervalle : [11//14 , 26//33]
+
+Intervalle : [26//33 , 67//85]
+
+Intervalle : [67//85 , 15//19]
+
+Intervalle : [15//19 , 34//43]
+
+Intervalle : [34//43 , 91//115]
+
+Intervalle : [91//115 , 19//24]
+
+Intervalle : [19//24 , 23//29]
+
+Intervalle : [23//29 , 58//73]
+
+Intervalle : [58//73 , 35//44]
+
+Intervalle : [35//44 , 74//93]
+
+Intervalle : [74//93 , 39//49]
+
+Intervalle : [39//49 , 43//54]
+
+Intervalle : [43//54 , 90//113]
+
+Intervalle : [90//113 , 4//5]
+
+Intervalle : [4//5 , 53//66]
+
+Intervalle : [53//66 , 49//61]
+
+Intervalle : [49//61 , 41//51]
+
+Intervalle : [41//51 , 37//46]
+
+Intervalle : [37//46 , 70//87]
+
+Intervalle : [70//87 , 29//36]
+
+Intervalle : [29//36 , 54//67]
+
+Intervalle : [54//67 , 25//31]
+
+Intervalle : [25//31 , 46//57]
+
+Intervalle : [46//57 , 21//26]
+
+Intervalle : [21//26 , 80//99]
+
+Intervalle : [80//99 , 59//73]
+
+Intervalle : [59//73 , 38//47]
+
+Intervalle : [38//47 , 55//68]
+
+Intervalle : [55//68 , 17//21]
+
+Intervalle : [17//21 , 47//58]
+
+Intervalle : [47//58 , 30//37]
+
+Intervalle : [30//37 , 43//53]
+
+Intervalle : [43//53 , 13//16]
+
+Intervalle : [13//16 , 83//102]
+
+Intervalle : [83//102 , 35//43]
+
+Intervalle : [35//43 , 31//38]
+
+Intervalle : [31//38 , 40//49]
+
+Intervalle : [40//49 , 49//60]
+
+Intervalle : [49//60 , 76//93]
+
+Intervalle : [76//93 , 9//11]
+
+Intervalle : [9//11 , 86//105]
+
+Intervalle : [86//105 , 68//83]
+
+Intervalle : [68//83 , 41//50]
+
+Intervalle : [41//50 , 32//39]
+
+Intervalle : [32//39 , 55//67]
+
+Intervalle : [55//67 , 23//28]
+
+Intervalle : [23//28 , 37//45]
+
+Intervalle : [37//45 , 14//17]
+
+Intervalle : [14//17 , 33//40]
+
+Intervalle : [33//40 , 52//63]
+
+Intervalle : [52//63 , 77//93]
+
+Intervalle : [77//93 , 29//35]
+
+Intervalle : [29//35 , 34//41]
+
+Intervalle : [34//41 , 44//53]
+
+Intervalle : [44//53 , 59//71]
+
+Intervalle : [59//71 , 69//83]
+
+Intervalle : [69//83 , 89//107]
+
+Intervalle : [89//107 , 5//6]
+
+Intervalle : [5//6 , 76//91]
+
+Intervalle : [76//91 , 51//61]
+
+Intervalle : [51//61 , 41//49]
+
+Intervalle : [41//49 , 31//37]
+
+Intervalle : [31//37 , 57//68]
+
+Intervalle : [57//68 , 21//25]
+
+Intervalle : [21//25 , 58//69]
+
+Intervalle : [58//69 , 37//44]
+
+Intervalle : [37//44 , 16//19]
+
+Intervalle : [16//19 , 70//83]
+
+Intervalle : [70//83 , 27//32]
+
+Intervalle : [27//32 , 65//77]
+
+Intervalle : [65//77 , 38//45]
+
+Intervalle : [38//45 , 11//13]
+
+Intervalle : [11//13 , 28//33]
+
+Intervalle : [28//33 , 45//53]
+
+Intervalle : [45//53 , 40//47]
+
+Intervalle : [40//47 , 23//27]
+
+Intervalle : [23//27 , 29//34]
+
+Intervalle : [29//34 , 41//48]
+
+Intervalle : [41//48 , 53//62]
+
+Intervalle : [53//62 , 65//76]
+
+Intervalle : [65//76 , 71//83]
+
+Intervalle : [71//83 , 83//97]
+
+Intervalle : [83//97 , 6//7]
+
+Intervalle : [6//7 , 91//106]
+
+Intervalle : [91//106 , 85//99]
+
+Intervalle : [85//99 , 49//57]
+
+Intervalle : [49//57 , 43//50]
+
+Intervalle : [43//50 , 37//43]
+
+Intervalle : [37//43 , 31//36]
+
+Intervalle : [31//36 , 56//65]
+
+Intervalle : [56//65 , 25//29]
+
+Intervalle : [25//29 , 44//51]
+
+Intervalle : [44//51 , 19//22]
+
+Intervalle : [19//22 , 70//81]
+
+Intervalle : [70//81 , 32//37]
+
+Intervalle : [32//37 , 45//52]
+
+Intervalle : [45//52 , 13//15]
+
+Intervalle : [13//15 , 85//98]
+
+Intervalle : [85//98 , 59//68]
+
+Intervalle : [59//68 , 46//53]
+
+Intervalle : [46//53 , 79//91]
+
+Intervalle : [79//91 , 33//38]
+
+Intervalle : [33//38 , 73//84]
+
+Intervalle : [73//84 , 20//23]
+
+Intervalle : [20//23 , 87//100]
+
+Intervalle : [87//100 , 27//31]
+
+Intervalle : [27//31 , 75//86]
+
+Intervalle : [75//86 , 62//71]
+
+Intervalle : [62//71 , 69//79]
+
+Intervalle : [69//79 , 90//103]
+
+Intervalle : [90//103 , 7//8]
+
+Intervalle : [7//8 , 71//81]
+
+Intervalle : [71//81 , 36//41]
+
+Intervalle : [36//41 , 29//33]
+
+Intervalle : [29//33 , 22//25]
+
+Intervalle : [22//25 , 59//67]
+
+Intervalle : [59//67 , 15//17]
+
+Intervalle : [15//17 , 68//77]
+
+Intervalle : [68//77 , 61//69]
+
+Intervalle : [61//69 , 23//26]
+
+Intervalle : [23//26 , 85//96]
+
+Intervalle : [85//96 , 31//35]
+
+Intervalle : [31//35 , 70//79]
+
+Intervalle : [70//79 , 39//44]
+
+Intervalle : [39//44 , 63//71]
+
+Intervalle : [63//71 , 79//89]
+
+Intervalle : [79//89 , 8//9]
+
+Intervalle : [8//9 , 57//64]
+
+Intervalle : [57//64 , 49//55]
+
+Intervalle : [49//55 , 90//101]
+
+Intervalle : [90//101 , 74//83]
+
+Intervalle : [74//83 , 33//37]
+
+Intervalle : [33//37 , 83//93]
+
+Intervalle : [83//93 , 25//28]
+
+Intervalle : [25//28 , 17//19]
+
+Intervalle : [17//19 , 60//67]
+
+Intervalle : [60//67 , 61//68]
+
+Intervalle : [61//68 , 35//39]
+
+Intervalle : [35//39 , 79//88]
+
+Intervalle : [79//88 , 44//49]
+
+Intervalle : [44//49 , 9//10]
+
+Intervalle : [9//10 , 91//101]
+
+Intervalle : [91//101 , 73//81]
+
+Intervalle : [73//81 , 64//71]
+
+Intervalle : [64//71 , 65//72]
+
+Intervalle : [65//72 , 28//31]
+
+Intervalle : [28//31 , 47//52]
+
+Intervalle : [47//52 , 19//21]
+
+Intervalle : [19//21 , 67//74]
+
+Intervalle : [67//74 , 48//53]
+
+Intervalle : [48//53 , 77//85]
+
+Intervalle : [77//85 , 39//43]
+
+Intervalle : [39//43 , 59//65]
+
+Intervalle : [59//65 , 10//11]
+
+Intervalle : [10//11 , 81//89]
+
+Intervalle : [81//89 , 71//78]
+
+Intervalle : [71//78 , 51//56]
+
+Intervalle : [51//56 , 52//57]
+
+Intervalle : [52//57 , 32//35]
+
+Intervalle : [32//35 , 43//47]
+
+Intervalle : [43//47 , 65//71]
+
+Intervalle : [65//71 , 11//12]
+
+Intervalle : [11//12 , 67//73]
+
+Intervalle : [67//73 , 56//61]
+
+Intervalle : [56//61 , 45//49]
+
+Intervalle : [45//49 , 34//37]
+
+Intervalle : [34//37 , 57//62]
+
+Intervalle : [57//62 , 23//25]
+
+Intervalle : [23//25 , 35//38]
+
+Intervalle : [35//38 , 47//51]
+
+Intervalle : [47//51 , 59//64]
+
+Intervalle : [59//64 , 12//13]
+
+Intervalle : [12//13 , 61//66]
+
+Intervalle : [61//66 , 37//40]
+
+Intervalle : [37//40 , 38//41]
+
+Intervalle : [38//41 , 89//96]
+
+Intervalle : [89//96 , 51//55]
+
+Intervalle : [51//55 , 13//14]
+
+Intervalle : [13//14 , 66//71]
+
+Intervalle : [66//71 , 53//57]
+
+Intervalle : [53//57 , 40//43]
+
+Intervalle : [40//43 , 27//29]
+
+Intervalle : [27//29 , 41//44]
+
+Intervalle : [41//44 , 55//59]
+
+Intervalle : [55//59 , 14//15]
+
+Intervalle : [14//15 , 29//31]
+
+Intervalle : [29//31 , 74//79]
+
+Intervalle : [74//79 , 15//16]
+
+Intervalle : [15//16 , 31//33]
+
+Intervalle : [31//33 , 47//50]
+
+Intervalle : [47//50 , 63//67]
+
+Intervalle : [63//67 , 16//17]
+
+Intervalle : [16//17 , 49//52]
+
+Intervalle : [49//52 , 33//35]
+
+Intervalle : [33//35 , 17//18]
+
+Intervalle : [17//18 , 69//73]
+
+Intervalle : [69//73 , 35//37]
+
+Intervalle : [35//37 , 53//56]
+
+Intervalle : [53//56 , 89//94]
+
+Intervalle : [89//94 , 18//19]
+
+Intervalle : [18//19 , 73//77]
+
+Intervalle : [73//77 , 37//39]
+
+Intervalle : [37//39 , 19//20]
+
+Intervalle : [19//20 , 39//41]
+
+Intervalle : [39//41 , 59//62]
+
+Intervalle : [59//62 , 20//21]
+
+Intervalle : [20//21 , 41//43]
+
+Intervalle : [41//43 , 62//65]
+
+Intervalle : [62//65 , 83//87]
+
+Intervalle : [83//87 , 21//22]
+
+Intervalle : [21//22 , 85//89]
+
+Intervalle : [85//89 , 64//67]
+
+Intervalle : [64//67 , 43//45]
+
+Intervalle : [43//45 , 65//68]
+
+Intervalle : [65//68 , 22//23]
+
+Intervalle : [22//23 , 23//24]
+
+Intervalle : [23//24 , 71//74]
+
+Intervalle : [71//74 , 51//53]
+
+Intervalle : [51//53 , 26//27]
+
+Intervalle : [26//27 , 53//55]
+
+Intervalle : [53//55 , 27//28]
+
+Intervalle : [27//28 , 55//57]
+
+Intervalle : [55//57 , 28//29]
+
+Intervalle : [28//29 , 57//59]
+
+Intervalle : [57//59 , 86//89]
+
+Intervalle : [86//89 , 29//30]
+
+Intervalle : [29//30 , 59//61]
+
+Intervalle : [59//61 , 30//31]
+
+Intervalle : [30//31 , 61//63]
+
+Intervalle : [61//63 , 63//65]
+
+Intervalle : [63//65 , 32//33]
+
+Intervalle : [32//33 , 65//67]
+
+Intervalle : [65//67 , 34//35]
+
+Intervalle : [34//35 , 71//73]
+
+Intervalle : [71//73 , 36//37]
+
+Intervalle : [36//37 , 37//38]
+
+Intervalle : [37//38 , 39//40]
+
+Intervalle : [39//40 , 40//41]
+
+Intervalle : [40//41 , 41//42]
+
+Intervalle : [41//42 , 42//43]
+
+Intervalle : [42//43 , 43//44]
+
+Intervalle : [43//44 , 44//45]
+
+Intervalle : [44//45 , 45//46]
+
+Intervalle : [45//46 , 50//51]
+
+Intervalle : [50//51 , 51//52]
+
+Intervalle : [51//52 , 52//53]
+
+Intervalle : [52//53 , 56//57]
+
+Intervalle : [56//57 , 57//58]
+
+Intervalle : [57//58 , 58//59]
+
+Intervalle : [58//59 , 59//60]
+
+Intervalle : [59//60 , 61//62]
+
+Intervalle : [61//62 , 62//63]
+
+Intervalle : [62//63 , 65//66]
+
+Intervalle : [65//66 , 67//68]
+
+Intervalle : [67//68 , 68//69]
+
+Intervalle : [68//69 , 71//72]
+
+Intervalle : [71//72 , 81//82]
+
+Intervalle : [81//82 , 83//84]
+
+Intervalle : [83//84 , 84//85]
+
+Intervalle : [84//85 , 85//86]
+
+Intervalle : [85//86 , 86//87]
+
+Intervalle : [86//87 , 89//90]
+
+Intervalle : [89//90 , 96//97]
+
+Intervalle : [96//97 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 96//97]
+
+Intervalle : [96//97 , 96//97]
+
+Intervalle : [96//97 , 89//90]
+
+Intervalle : [89//90 , 86//87]
+
+Intervalle : [86//87 , 85//86]
+
+Intervalle : [85//86 , 84//85]
+
+Intervalle : [84//85 , 83//84]
+
+Intervalle : [83//84 , 83//84]
+
+Intervalle : [83//84 , 81//82]
+
+Intervalle : [81//82 , 71//72]
+
+Intervalle : [71//72 , 68//69]
+
+Intervalle : [68//69 , 68//69]
+
+Intervalle : [68//69 , 67//68]
+
+Intervalle : [67//68 , 65//66]
+
+Intervalle : [65//66 , 64//65]
+
+Intervalle : [64//65 , 65//66]
+
+Intervalle : [65//66 , 67//68]
+
+Intervalle : [67//68 , 68//69]
+
+Intervalle : [68//69 , 71//72]
+
+Intervalle : [71//72 , 74//75]
+
+Intervalle : [74//75 , 81//82]
+
+Intervalle : [81//82 , 83//84]
+
+Intervalle : [83//84 , 84//85]
+
+Intervalle : [84//85 , 85//86]
+
+Intervalle : [85//86 , 86//87]
+
+Intervalle : [86//87 , 88//89]
+
+Intervalle : [88//89 , 89//90]
+
+Intervalle : [89//90 , 96//97]
+
+Intervalle : [96//97 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 1//1]
+
+Intervalle : [1//1 , 96//97]
+
+Intervalle : [96//97 , 96//97]
+
+Intervalle : [96//97 , 89//90]
+
+Intervalle : [89//90 , 88//89]
+
+Intervalle : [88//89 , 86//87]
+
+Intervalle : [86//87 , 85//86]
+
+Intervalle : [85//86 , 84//85]
+
+Intervalle : [84//85 , 83//84]
+
+Intervalle : [83//84 , 83//84]
+
+Intervalle : [83//84 , 81//82]
+
+Intervalle : [81//82 , 74//75]
+
+Intervalle : [74//75 , 73//74]
+
+Intervalle : [73//74 , 71//72]
+
+Intervalle : [71//72 , 68//69]
+
+Intervalle : [68//69 , 68//69]
+
+Intervalle : [68//69 , 67//68]
+
+Intervalle : [67//68 , 65//66]
+
+Intervalle : [65//66 , 64//65]
+
+Intervalle : [64//65 , 62//63]
+
+Intervalle : [62//63 , 61//62]
+
+Intervalle : [61//62 , 59//60]
+
+Intervalle : [59//60 , 59//60]
+
+Intervalle : [59//60 , 58//59]
+
+Intervalle : [58//59 , 59//60]
+
+Intervalle : [59//60 , 61//62]
+
+Intervalle : [61//62 , 62//63]
+
+Intervalle : [62//63 , 64//65]
+
+Intervalle : [64//65 , 65//66]
+
+Intervalle : [65//66 , 67//68]
+
+Intervalle : [67//68 , 68//69]
+
+Intervalle : [68//69 , 71//72]
+
+Intervalle : [71//72 , 74//75]
+
+Intervalle : [74//75 , 81//82]
+
+Intervalle : [81//82 , 83//84]
+
+Intervalle : [83//84 , 84//85]
+
+Intervalle : [84//85 , 85//86]
+
+Intervalle : [85//86 , 86//87]
+
+Intervalle : [86//87 , 88//89]
+
+Intervalle : [88//89 , 89//90]
+
+Intervalle : [89//90 , 96//97]
+
+Intervalle : [96//97 , 1//1]
