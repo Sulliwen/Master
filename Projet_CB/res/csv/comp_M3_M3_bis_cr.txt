@@ -1,0 +1,5 @@
+test_prop & 2 & 0.0 & 2 & 0.0 \\ \hline
+etoile & 1 & 0.0 & 1 & 0.0 \\ \hline
+quelconque & 2 & 0.0 & 2 & 0.0 \\ \hline
+rayons & 2 & 0.0 & 2 & 0.0 \\ \hline
+une & 1 & 0.0 & 1 & 0.0 \\ \hline
