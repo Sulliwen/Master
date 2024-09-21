@@ -1,0 +1,10 @@
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{nb clauses} & \textbf{\% t clauses} & \textbf{\% t solve} & \textbf{t total (s)} \\ \hline
+\multirow{1}{4em}{\centering{2 8 5}} & a12\_o0 & 20155280 & 83.0 & 17.0 & 27.123 \\ 
+\hline
+\end{tabular}
+\caption{Instance 2 8 5: influence des bs sur les temps de résolution de Glucose3}
+\end{table}
+

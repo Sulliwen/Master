@@ -1,0 +1,7 @@
+Tableau des res format latex
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{temps exec} \\ \hline
+\multirow{1}{4em}{\centering{5 3 3}}

@@ -1,0 +1,382 @@
+Tableau des res format latex
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{temps exec} \\ \hline
+\multirow{10}{4em}{\centering{2 5 4}} & bs\_a1 & 0.181 \\ 
+ & bs\_a2 & 0.24 \\ 
+ & bs\_a12 & 0.239 \\ 
+ & bs\_a12\_o1 & 0.259 \\ 
+ & bs\_a12\_o2 & 0.255 \\ 
+ & bs\_a12\_o12 & 0.266 \\ 
+ & bs\_o1 & 0.257 \\ 
+ & bs\_o2 & 0.3 \\ 
+ & bs\_o12 & 0.265 \\ 
+ & bs\_sbs & 0.288 \\ 
+\hline
+\end{tabular}
+\caption{Influence des brise-symmétries sur les temps de résolution sous Gecode}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{temps exec} \\ \hline
+\multirow{10}{4em}{\centering{2 6 4}} & bs\_a1 & 0.554 \\ 
+ & bs\_a2 & 0.245 \\ 
+ & bs\_a12 & 0.245 \\ 
+ & bs\_a12\_o1 & 0.273 \\ 
+ & bs\_a12\_o2 & 0.266 \\ 
+ & bs\_a12\_o12 & 0.285 \\ 
+ & bs\_o1 & 0.272 \\ 
+ & bs\_o2 & 0.559 \\ 
+ & bs\_o12 & 0.28 \\ 
+ & bs\_sbs & 0.534 \\ 
+\hline
+\end{tabular}
+\caption{Influence des brise-symmétries sur les temps de résolution sous Gecode}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{temps exec} \\ \hline
+\multirow{10}{4em}{\centering{2 7 4}} & bs\_a1 & 0.358 \\ 
+ & bs\_a2 & 0.244 \\ 
+ & bs\_a12 & 0.281 \\ 
+ & bs\_a12\_o1 & 0.322 \\ 
+ & bs\_a12\_o2 & 0.299 \\ 
+ & bs\_a12\_o12 & 0.346 \\ 
+ & bs\_o1 & 0.294 \\ 
+ & bs\_o2 & 0.376 \\ 
+ & bs\_o12 & 0.301 \\ 
+ & bs\_sbs & 0.356 \\ 
+\hline
+\end{tabular}
+\caption{Influence des brise-symmétries sur les temps de résolution sous Gecode}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{temps exec} \\ \hline
+\multirow{10}{4em}{\centering{2 8 5}} & bs\_a1 & 200.188 \\ 
+ & bs\_a2 & 0.78 \\ 
+ & bs\_a12 & 50.057 \\ 
+ & bs\_a12\_o1 & 54.657 \\ 
+ & bs\_a12\_o2 & 33.241 \\ 
+ & bs\_a12\_o12 & 55.359 \\ 
+ & bs\_o1 & 0.333 \\ 
+ & bs\_o2 & 200.203 \\ 
+ & bs\_o12 & 1.095 \\ 
+ & bs\_sbs & 200.189 \\ 
+\hline
+\end{tabular}
+\caption{Influence des brise-symmétries sur les temps de résolution sous Gecode}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{temps exec} \\ \hline
+\multirow{10}{4em}{\centering{3 5 4}} & bs\_a1 & 0.4 \\ 
+ & bs\_a2 & 0.248 \\ 
+ & bs\_a12 & 0.247 \\ 
+ & bs\_a12\_o1 & 0.277 \\ 
+ & bs\_a12\_o2 & 0.268 \\ 
+ & bs\_a12\_o12 & 0.293 \\ 
+ & bs\_o1 & 0.278 \\ 
+ & bs\_o2 & 0.39 \\ 
+ & bs\_o12 & 0.314 \\ 
+ & bs\_sbs & 0.361 \\ 
+\hline
+\end{tabular}
+\caption{Influence des brise-symmétries sur les temps de résolution sous Gecode}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{temps exec} \\ \hline
+\multirow{10}{4em}{\centering{3 6 4}} & bs\_a1 & 0.94 \\ 
+ & bs\_a2 & 0.271 \\ 
+ & bs\_a12 & 0.325 \\ 
+ & bs\_a12\_o1 & 0.335 \\ 
+ & bs\_a12\_o2 & 0.336 \\ 
+ & bs\_a12\_o12 & 0.36 \\ 
+ & bs\_o1 & 0.303 \\ 
+ & bs\_o2 & 1.074 \\ 
+ & bs\_o12 & 0.333 \\ 
+ & bs\_sbs & 0.933 \\ 
+\hline
+\end{tabular}
+\caption{Influence des brise-symmétries sur les temps de résolution sous Gecode}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{temps exec} \\ \hline
+\multirow{10}{4em}{\centering{3 7 4}} & bs\_a1 & 0.648 \\ 
+ & bs\_a2 & 0.461 \\ 
+ & bs\_a12 & 0.561 \\ 
+ & bs\_a12\_o1 & 0.445 \\ 
+ & bs\_a12\_o2 & 0.732 \\ 
+ & bs\_a12\_o12 & 0.469 \\ 
+ & bs\_o1 & 0.355 \\ 
+ & bs\_o2 & 0.63 \\ 
+ & bs\_o12 & 0.362 \\ 
+ & bs\_sbs & 0.67 \\ 
+\hline
+\end{tabular}
+\caption{Influence des brise-symmétries sur les temps de résolution sous Gecode}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{temps exec} \\ \hline
+\multirow{10}{4em}{\centering{4 5 4}} & bs\_a1 & 0.854 \\ 
+ & bs\_a2 & 0.326 \\ 
+ & bs\_a12 & 0.268 \\ 
+ & bs\_a12\_o1 & 0.318 \\ 
+ & bs\_a12\_o2 & 0.289 \\ 
+ & bs\_a12\_o12 & 0.341 \\ 
+ & bs\_o1 & 0.317 \\ 
+ & bs\_o2 & 5.391 \\ 
+ & bs\_o12 & 0.414 \\ 
+ & bs\_sbs & 0.778 \\ 
+\hline
+\end{tabular}
+\caption{Influence des brise-symmétries sur les temps de résolution sous Gecode}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{temps exec} \\ \hline
+\multirow{10}{4em}{\centering{4 6 5}} & bs\_a1 & 200.201 \\ 
+ & bs\_a2 & 1.939 \\ 
+ & bs\_a12 & 2.283 \\ 
+ & bs\_a12\_o1 & 2.733 \\ 
+ & bs\_a12\_o2 & 0.689 \\ 
+ & bs\_a12\_o12 & 0.842 \\ 
+ & bs\_o1 & 0.834 \\ 
+ & bs\_o2 & 200.221 \\ 
+ & bs\_o12 & 27.607 \\ 
+ & bs\_sbs & 200.215 \\ 
+\hline
+\end{tabular}
+\caption{Influence des brise-symmétries sur les temps de résolution sous Gecode}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{temps exec} \\ \hline
+\multirow{10}{4em}{\centering{4 7 4}} & bs\_a1 & 3.538 \\ 
+ & bs\_a2 & 0.61 \\ 
+ & bs\_a12 & 1.398 \\ 
+ & bs\_a12\_o1 & 0.605 \\ 
+ & bs\_a12\_o2 & 0.559 \\ 
+ & bs\_a12\_o12 & 0.464 \\ 
+ & bs\_o1 & 0.386 \\ 
+ & bs\_o2 & 1.5 \\ 
+ & bs\_o12 & 0.452 \\ 
+ & bs\_sbs & 3.535 \\ 
+\hline
+\end{tabular}
+\caption{Influence des brise-symmétries sur les temps de résolution sous Gecode}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{temps exec} \\ \hline
+\multirow{10}{4em}{\centering{4 9 4}} & bs\_a1 & 1.256 \\ 
+ & bs\_a2 & 0.496 \\ 
+ & bs\_a12 & 0.488 \\ 
+ & bs\_a12\_o1 & 0.603 \\ 
+ & bs\_a12\_o2 & 0.691 \\ 
+ & bs\_a12\_o12 & 0.67 \\ 
+ & bs\_o1 & 0.486 \\ 
+ & bs\_o2 & 5.342 \\ 
+ & bs\_o12 & 0.524 \\ 
+ & bs\_sbs & 1.195 \\ 
+\hline
+\end{tabular}
+\caption{Influence des brise-symmétries sur les temps de résolution sous Gecode}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{temps exec} \\ \hline
+\multirow{10}{4em}{\centering{5 4 3}} & bs\_a1 & 200.192 \\ 
+ & bs\_a2 & 2.419 \\ 
+ & bs\_a12 & 200.194 \\ 
+ & bs\_a12\_o1 & 200.214 \\ 
+ & bs\_a12\_o2 & 18.709 \\ 
+ & bs\_a12\_o12 & 28.934 \\ 
+ & bs\_o1 & 200.214 \\ 
+ & bs\_o2 & 200.223 \\ 
+ & bs\_o12 & 200.224 \\ 
+ & bs\_sbs & 200.207 \\ 
+\hline
+\end{tabular}
+\caption{Influence des brise-symmétries sur les temps de résolution sous Gecode}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{temps exec} \\ \hline
+\multirow{10}{4em}{\centering{5 5 4}} & bs\_a1 & 200.218 \\ 
+ & bs\_a2 & 1.736 \\ 
+ & bs\_a12 & 3.081 \\ 
+ & bs\_a12\_o1 & 3.996 \\ 
+ & bs\_a12\_o2 & 0.434 \\ 
+ & bs\_a12\_o12 & 0.477 \\ 
+ & bs\_o1 & 0.478 \\ 
+ & bs\_o2 & 0.523 \\ 
+ & bs\_o12 & 29.025 \\ 
+ & bs\_sbs & 200.221 \\ 
+\hline
+\end{tabular}
+\caption{Influence des brise-symmétries sur les temps de résolution sous Gecode}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{temps exec} \\ \hline
+\multirow{10}{4em}{\centering{5 7 4}} & bs\_a1 & 93.953 \\ 
+ & bs\_a2 & 3.37 \\ 
+ & bs\_a12 & 5.066 \\ 
+ & bs\_a12\_o1 & 0.815 \\ 
+ & bs\_a12\_o2 & 2.096 \\ 
+ & bs\_a12\_o12 & 0.73 \\ 
+ & bs\_o1 & 0.537 \\ 
+ & bs\_o2 & 2.087 \\ 
+ & bs\_o12 & 0.622 \\ 
+ & bs\_sbs & 110.585 \\ 
+\hline
+\end{tabular}
+\caption{Influence des brise-symmétries sur les temps de résolution sous Gecode}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{temps exec} \\ \hline
+\multirow{10}{4em}{\centering{5 8 3}} & bs\_a1 & 12.499 \\ 
+ & bs\_a2 & 200.244 \\ 
+ & bs\_a12 & 0.437 \\ 
+ & bs\_a12\_o1 & 0.458 \\ 
+ & bs\_a12\_o2 & 77.484 \\ 
+ & bs\_a12\_o12 & 0.485 \\ 
+ & bs\_o1 & 0.459 \\ 
+ & bs\_o2 & 7.172 \\ 
+ & bs\_o12 & 0.551 \\ 
+ & bs\_sbs & 17.06 \\ 
+\hline
+\end{tabular}
+\caption{Influence des brise-symmétries sur les temps de résolution sous Gecode}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{temps exec} \\ \hline
+\multirow{10}{4em}{\centering{6 4 3}} & bs\_a1 & 200.219 \\ 
+ & bs\_a2 & 3.405 \\ 
+ & bs\_a12 & 1.643 \\ 
+ & bs\_a12\_o1 & 1.886 \\ 
+ & bs\_a12\_o2 & 0.301 \\ 
+ & bs\_a12\_o12 & 0.332 \\ 
+ & bs\_o1 & 200.218 \\ 
+ & bs\_o2 & 200.233 \\ 
+ & bs\_o12 & 200.248 \\ 
+ & bs\_sbs & 200.205 \\ 
+\hline
+\end{tabular}
+\caption{Influence des brise-symmétries sur les temps de résolution sous Gecode}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{temps exec} \\ \hline
+\multirow{10}{4em}{\centering{6 5 3}} & bs\_a1 & 200.216 \\ 
+ & bs\_a2 & 0.46 \\ 
+ & bs\_a12 & 200.223 \\ 
+ & bs\_a12\_o1 & 200.251 \\ 
+ & bs\_a12\_o2 & 16.08 \\ 
+ & bs\_a12\_o12 & 1.023 \\ 
+ & bs\_o1 & 31.533 \\ 
+ & bs\_o2 & 85.245 \\ 
+ & bs\_o12 & 17.298 \\ 
+ & bs\_sbs & 200.221 \\ 
+\hline
+\end{tabular}
+\caption{Influence des brise-symmétries sur les temps de résolution sous Gecode}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{temps exec} \\ \hline
+\multirow{10}{4em}{\centering{6 6 3}} & bs\_a1 & 200.233 \\ 
+ & bs\_a2 & 54.901 \\ 
+ & bs\_a12 & 1.791 \\ 
+ & bs\_a12\_o1 & 0.677 \\ 
+ & bs\_a12\_o2 & 23.771 \\ 
+ & bs\_a12\_o12 & 0.471 \\ 
+ & bs\_o1 & 0.467 \\ 
+ & bs\_o2 & 66.551 \\ 
+ & bs\_o12 & 1.938 \\ 
+ & bs\_sbs & 200.234 \\ 
+\hline
+\end{tabular}
+\caption{Influence des brise-symmétries sur les temps de résolution sous Gecode}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{temps exec} \\ \hline
+\multirow{10}{4em}{\centering{7 5 3}} & bs\_a1 & 200.25 \\ 
+ & bs\_a2 & 200.257 \\ 
+ & bs\_a12 & 200.24 \\ 
+ & bs\_a12\_o1 & 200.28 \\ 
+ & bs\_a12\_o2 & 200.264 \\ 
+ & bs\_a12\_o12 & 200.285 \\ 
+ & bs\_o1 & 200.271 \\ 
+ & bs\_o2 & 200.282 \\ 
+ & bs\_o12 & 53.81 \\ 
+ & bs\_sbs & 200.287 \\ 
+\hline
+\end{tabular}
+\caption{Influence des brise-symmétries sur les temps de résolution sous Gecode}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{temps exec} \\ \hline
+\multirow{10}{4em}{\centering{7 5 5}} & bs\_a1 & 0.266 \\ 
+ & bs\_a2 & 0.245 \\ 
+ & bs\_a12 & 0.261 \\ 
+ & bs\_a12\_o1 & 0.257 \\ 
+ & bs\_a12\_o2 & 0.26 \\ 
+ & bs\_a12\_o12 & 0.244 \\ 
+ & bs\_o1 & 0.252 \\ 
+ & bs\_o2 & 0.26 \\ 
+ & bs\_o12 & 0.253 \\ 
+ & bs\_sbs & 0.26 \\ 
+\hline
+\end{tabular}
+\caption{Influence des brise-symmétries sur les temps de résolution sous Gecode}
+\end{table}
+

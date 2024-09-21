@@ -1,0 +1,380 @@
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{nb clauses} & \textbf{\% t clauses} & \textbf{\% t solve} & \textbf{t total (s)} \\ \hline
+\multirow{10}{4em}{\centering{2 5 4}} &  & 691640 & 99.0 & 1.0 & 0.772 \\ 
+ &  & 691640 & 97.0 & 3.0 & 0.97 \\ 
+ & 2 & 691640 & 98.0 & 2.0 & 0.919 \\ 
+ & 2\_o0 & 703040 & 98.0 & 2.0 & 0.859 \\ 
+ & 2\_o1 & 752440 & 97.0 & 3.0 & 1.101 \\ 
+ & 2\_o01 & 763840 & 96.0 & 4.0 & 1.015 \\ 
+ &  & 703040 & 95.0 & 5.0 & 0.807 \\ 
+ &  & 752440 & 67.0 & 33.0 & 1.721 \\ 
+ & 1 & 763840 & 85.0 & 15.0 & 1.46 \\ 
+ & s & 691640 & 91.0 & 9.0 & 1.07 \\ 
+\hline
+\end{tabular}
+\caption{Instance 2 5 4: influence des bs sur les temps de résolution de Glucose3}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{nb clauses} & \textbf{\% t clauses} & \textbf{\% t solve} & \textbf{t total (s)} \\ \hline
+\multirow{10}{4em}{\centering{2 6 4}} &  & 1444080 & 98.0 & 2.0 & 1.939 \\ 
+ &  & 1444080 & 97.0 & 3.0 & 1.655 \\ 
+ & 2 & 1444080 & 99.0 & 1.0 & 1.742 \\ 
+ & 2\_o0 & 1463952 & 98.0 & 2.0 & 1.607 \\ 
+ & 2\_o1 & 1576560 & 96.0 & 4.0 & 2.192 \\ 
+ & 2\_o01 & 1596432 & 91.0 & 9.0 & 2.158 \\ 
+ &  & 1463952 & 87.0 & 13.0 & 1.859 \\ 
+ &  & 1576560 & 66.0 & 34.0 & 3.044 \\ 
+ & 1 & 1596432 & 59.0 & 41.0 & 3.413 \\ 
+ & s & 1444080 & 98.0 & 2.0 & 1.759 \\ 
+\hline
+\end{tabular}
+\caption{Instance 2 6 4: influence des bs sur les temps de résolution de Glucose3}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{nb clauses} & \textbf{\% t clauses} & \textbf{\% t solve} & \textbf{t total (s)} \\ \hline
+\multirow{10}{4em}{\centering{2 7 4}} &  & 2688392 & 99.0 & 1.0 & 3.335 \\ 
+ &  & 2688392 & 98.0 & 2.0 & 3.267 \\ 
+ & 2 & 2688392 & 99.0 & 1.0 & 2.958 \\ 
+ & 2\_o0 & 2720144 & 97.0 & 3.0 & 3.354 \\ 
+ & 2\_o1 & 2942408 & 95.0 & 5.0 & 4.129 \\ 
+ & 2\_o01 & 2974160 & 95.0 & 5.0 & 4.106 \\ 
+ &  & 2720144 & 98.0 & 2.0 & 2.954 \\ 
+ &  & 2942408 & 52.0 & 48.0 & 6.976 \\ 
+ & 1 & 2974160 & 51.0 & 49.0 & 7.582 \\ 
+ & s & 2688392 & 98.0 & 2.0 & 2.977 \\ 
+\hline
+\end{tabular}
+\caption{Instance 2 7 4: influence des bs sur les temps de résolution de Glucose3}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{nb clauses} & \textbf{\% t clauses} & \textbf{\% t solve} & \textbf{t total (s)} \\ \hline
+\multirow{10}{4em}{\centering{2 8 5}} &  & 20030480 & 98.0 & 2.0 & 22.014 \\ 
+ &  & 20030480 & 94.0 & 6.0 & 23.518 \\ 
+ & 2 & 20030480 & 98.0 & 2.0 & 22.66 \\ 
+ & 2\_o0 & 20155280 & 84.0 & 16.0 & 26.037 \\ 
+ & 2\_o1 & 21122480 & 83.0 & 17.0 & 33.821 \\ 
+ & 2\_o01 & 21247280 & 95.0 & 5.0 & 28.65 \\ 
+ &  & 20155280 & 97.0 & 3.0 & 23.791 \\ 
+ &  & 21122480 & 25.0 & 75.0 & 111.187 \\ 
+ & 1 & 21247280 & 74.0 & 26.0 & 39.266 \\ 
+ & s & 20030480 & 98.0 & 2.0 & 23.596 \\ 
+\hline
+\end{tabular}
+\caption{Instance 2 8 5: influence des bs sur les temps de résolution de Glucose3}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{nb clauses} & \textbf{\% t clauses} & \textbf{\% t solve} & \textbf{t total (s)} \\ \hline
+\multirow{10}{4em}{\centering{3 5 4}} &  & 2063460 & 97.0 & 3.0 & 2.343 \\ 
+ &  & 2063460 & 99.0 & 1.0 & 2.284 \\ 
+ & 2 & 2063460 & 99.0 & 1.0 & 2.295 \\ 
+ & 2\_o0 & 2080560 & 97.0 & 3.0 & 2.356 \\ 
+ & 2\_o1 & 2154660 & 98.0 & 2.0 & 2.606 \\ 
+ & 2\_o01 & 2171760 & 95.0 & 5.0 & 2.599 \\ 
+ &  & 2080560 & 85.0 & 15.0 & 2.565 \\ 
+ &  & 2154660 & 83.0 & 17.0 & 2.874 \\ 
+ & 1 & 2171760 & 78.0 & 22.0 & 3.1 \\ 
+ & s & 2063460 & 93.0 & 7.0 & 2.417 \\ 
+\hline
+\end{tabular}
+\caption{Instance 3 5 4: influence des bs sur les temps de résolution de Glucose3}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{nb clauses} & \textbf{\% t clauses} & \textbf{\% t solve} & \textbf{t total (s)} \\ \hline
+\multirow{10}{4em}{\centering{3 6 4}} &  & 4312296 & 98.0 & 2.0 & 4.777 \\ 
+ &  & 4312296 & 98.0 & 2.0 & 4.65 \\ 
+ & 2 & 4312296 & 98.0 & 2.0 & 4.793 \\ 
+ & 2\_o0 & 4342104 & 94.0 & 6.0 & 5.989 \\ 
+ & 2\_o1 & 4511016 & 96.0 & 4.0 & 6.279 \\ 
+ & 2\_o01 & 4540824 & 77.0 & 23.0 & 6.814 \\ 
+ &  & 4342104 & 89.0 & 11.0 & 5.141 \\ 
+ &  & 4511016 & 57.0 & 42.0 & 8.767 \\ 
+ & 1 & 4540824 & 59.0 & 41.0 & 8.739 \\ 
+ & s & 4312296 & 98.0 & 2.0 & 4.933 \\ 
+\hline
+\end{tabular}
+\caption{Instance 3 6 4: influence des bs sur les temps de résolution de Glucose3}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{nb clauses} & \textbf{\% t clauses} & \textbf{\% t solve} & \textbf{t total (s)} \\ \hline
+\multirow{10}{4em}{\centering{3 7 4}} &  & 8033340 & 99.0 & 1.0 & 9.343 \\ 
+ &  & 8033340 & 99.0 & 1.0 & 10.262 \\ 
+ & 2 & 8033340 & 99.0 & 1.0 & 9.812 \\ 
+ & 2\_o0 & 8080968 & 84.0 & 16.0 & 12.364 \\ 
+ & 2\_o1 & 8414364 & 98.0 & 2.0 & 13.209 \\ 
+ & 2\_o01 & 8461992 & 73.0 & 27.0 & 17.094 \\ 
+ &  & 8080968 & 95.0 & 5.0 & 10.939 \\ 
+ &  & 8414364 & 77.0 & 23.0 & 15.854 \\ 
+ & 1 & 8461992 & 68.0 & 32.0 & 16.752 \\ 
+ & s & 8033340 & 99.0 & 1.0 & 8.964 \\ 
+\hline
+\end{tabular}
+\caption{Instance 3 7 4: influence des bs sur les temps de résolution de Glucose3}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{nb clauses} & \textbf{\% t clauses} & \textbf{\% t solve} & \textbf{t total (s)} \\ \hline
+\multirow{10}{4em}{\centering{4 5 4}} &  & 4119280 & 93.0 & 7.0 & 5.307 \\ 
+ &  & 4119280 & 98.0 & 2.0 & 4.594 \\ 
+ & 2 & 4119280 & 98.0 & 2.0 & 5.345 \\ 
+ & 2\_o0 & 4142080 & 85.0 & 15.0 & 5.433 \\ 
+ & 2\_o1 & 4240880 & 97.0 & 3.0 & 5.361 \\ 
+ & 2\_o01 & 4263680 & 92.0 & 8.0 & 5.358 \\ 
+ &  & 4142080 & 54.0 & 46.0 & 8.842 \\ 
+ &  & 4240880 & 52.0 & 48.0 & 10.93 \\ 
+ & 1 & 4263680 & 5.0 & 95.0 & 93.522 \\ 
+ & s & 4119280 & 94.0 & 6.0 & 5.642 \\ 
+\hline
+\end{tabular}
+\caption{Instance 4 5 4: influence des bs sur les temps de résolution de Glucose3}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{nb clauses} & \textbf{\% t clauses} & \textbf{\% t solve} & \textbf{t total (s)} \\ \hline
+\multirow{10}{4em}{\centering{4 6 5}} &  & 37636320 & 72.0 & 28.0 & 70.776 \\ 
+ &  & 37636320 & 72.0 & 28.0 & 64.454 \\ 
+ & 2 & 37636320 & 74.0 & 26.0 & 59.997 \\ 
+ & 2\_o0 & 37740720 & - & - & 200.041 \\ 
+ & 2\_o1 & 38288820 & 92.0 & 8.0 & 53.998 \\ 
+ & 2\_o01 & 38393220 & - & - & 200.161 \\ 
+ &  & 37740720 & - & - & 200.343 \\ 
+ &  & 38288820 & - & - & 202.845 \\ 
+ & 1 & 38393220 & - & - & 200.021 \\ 
+ & s & 37636320 & 84.0 & 16.0 & 48.384 \\ 
+\hline
+\end{tabular}
+\caption{Instance 4 6 5: influence des bs sur les temps de résolution de Glucose3}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{nb clauses} & \textbf{\% t clauses} & \textbf{\% t solve} & \textbf{t total (s)} \\ \hline
+\multirow{10}{4em}{\centering{4 7 4}} &  & 16045456 & 99.0 & 1.0 & 17.615 \\ 
+ &  & 16045456 & 99.0 & 1.0 & 17.627 \\ 
+ & 2 & 16045456 & 99.0 & 1.0 & 18.168 \\ 
+ & 2\_o0 & 16108960 & 85.0 & 15.0 & 23.65 \\ 
+ & 2\_o1 & 16553488 & 97.0 & 3.0 & 21.954 \\ 
+ & 2\_o01 & 16616992 & 79.0 & 21.0 & 27.903 \\ 
+ &  & 16108960 & 66.0 & 34.0 & 28.081 \\ 
+ &  & 16553488 & 14.0 & 86.0 & 141.95 \\ 
+ & 1 & 16616992 & 12.0 & 88.0 & 158.145 \\ 
+ & s & 16045456 & 97.0 & 3.0 & 17.863 \\ 
+\hline
+\end{tabular}
+\caption{Instance 4 7 4: influence des bs sur les temps de résolution de Glucose3}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{nb clauses} & \textbf{\% t clauses} & \textbf{\% t solve} & \textbf{t total (s)} \\ \hline
+\multirow{10}{4em}{\centering{4 9 4}} &  & 44180784 & 98.0 & 2.0 & 49.596 \\ 
+ &  & 44180784 & 98.0 & 2.0 & 49.331 \\ 
+ & 2 & 44180784 & 98.0 & 2.0 & 50.261 \\ 
+ & 2\_o0 & 44316864 & 85.0 & 15.0 & 58.735 \\ 
+ & 2\_o1 & 45632304 & 87.0 & 13.0 & 62.165 \\ 
+ & 2\_o01 & 45768384 & - & - & 200.089 \\ 
+ &  & 44316864 & 93.0 & 7.0 & 52.741 \\ 
+ &  & 45632304 & - & - & 214.113 \\ 
+ & 1 & 45768384 & - & - & 200.001 \\ 
+ & s & 44180784 & 82.0 & 18.0 & 58.556 \\ 
+\hline
+\end{tabular}
+\caption{Instance 4 9 4: influence des bs sur les temps de résolution de Glucose3}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{nb clauses} & \textbf{\% t clauses} & \textbf{\% t solve} & \textbf{t total (s)} \\ \hline
+\multirow{10}{4em}{\centering{5 4 3}} &  & 384180 & - & - & 200.017 \\ 
+ &  & 384180 & - & - & 200.033 \\ 
+ & 2 & 384180 & - & - & 200.062 \\ 
+ & 2\_o0 & 388140 & 4.0 & 96.0 & 11.798 \\ 
+ & 2\_o1 & 402000 & - & - & 202.412 \\ 
+ & 2\_o01 & 405960 & 5.0 & 95.0 & 10.761 \\ 
+ &  & 388140 & - & - & 200.002 \\ 
+ &  & 402000 & - & - & 200.056 \\ 
+ & 1 & 405960 & - & - & 200.055 \\ 
+ & s & 384180 & - & - & 200.306 \\ 
+\hline
+\end{tabular}
+\caption{Instance 5 4 3: influence des bs sur les temps de résolution de Glucose3}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{nb clauses} & \textbf{\% t clauses} & \textbf{\% t solve} & \textbf{t total (s)} \\ \hline
+\multirow{10}{4em}{\centering{5 5 4}} &  & 6859100 & 67.0 & 33.0 & 11.891 \\ 
+ &  & 6859100 & 65.0 & 35.0 & 11.408 \\ 
+ & 2 & 6859100 & 85.0 & 15.0 & 8.568 \\ 
+ & 2\_o0 & 6887600 & 69.0 & 31.0 & 11.177 \\ 
+ & 2\_o1 & 7011100 & 86.0 & 14.0 & 9.38 \\ 
+ & 2\_o01 & 7039600 & 71.0 & 29.0 & 11.005 \\ 
+ &  & 6887600 & - & - & 200.078 \\ 
+ &  & 7011100 & - & - & 223.604 \\ 
+ & 1 & 7039600 & - & - & 200.003 \\ 
+ & s & 6859100 & 40.0 & 60.0 & 18.129 \\ 
+\hline
+\end{tabular}
+\caption{Instance 5 5 4: influence des bs sur les temps de résolution de Glucose3}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{nb clauses} & \textbf{\% t clauses} & \textbf{\% t solve} & \textbf{t total (s)} \\ \hline
+\multirow{10}{4em}{\centering{5 7 4}} &  & 26724740 & 99.0 & 1.0 & 28.45 \\ 
+ &  & 26724740 & 96.0 & 4.0 & 29.238 \\ 
+ & 2 & 26724740 & 99.0 & 1.0 & 29.267 \\ 
+ & 2\_o0 & 26804120 & 55.0 & 45.0 & 54.171 \\ 
+ & 2\_o1 & 27359780 & 84.0 & 16.0 & 40.972 \\ 
+ & 2\_o01 & 27439160 & 18.0 & 82.0 & 169.303 \\ 
+ &  & 26804120 & 33.0 & 67.0 & 86.804 \\ 
+ &  & 27359780 & - & - & 200.044 \\ 
+ & 1 & 27439160 & - & - & 200.093 \\ 
+ & s & 26724740 & 99.0 & 1.0 & 28.969 \\ 
+\hline
+\end{tabular}
+\caption{Instance 5 7 4: influence des bs sur les temps de résolution de Glucose3}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{nb clauses} & \textbf{\% t clauses} & \textbf{\% t solve} & \textbf{t total (s)} \\ \hline
+\multirow{10}{4em}{\centering{5 8 3}} &  & 6392280 & 99.0 & 1.0 & 6.95 \\ 
+ &  & 6392280 & 99.0 & 1.0 & 7.271 \\ 
+ & 2 & 6392280 & 99.0 & 1.0 & 6.898 \\ 
+ & 2\_o0 & 6425400 & 96.0 & 4.0 & 7.257 \\ 
+ & 2\_o1 & 6740040 & 89.0 & 11.0 & 9.519 \\ 
+ & 2\_o01 & 6773160 & 78.0 & 22.0 & 10.543 \\ 
+ &  & 6425400 & 97.0 & 3.0 & 7.136 \\ 
+ &  & 6740040 & 36.0 & 64.0 & 21.256 \\ 
+ & 1 & 6773160 & 20.0 & 80.0 & 40.26 \\ 
+ & s & 6392280 & 99.0 & 1.0 & 6.984 \\ 
+\hline
+\end{tabular}
+\caption{Instance 5 8 3: influence des bs sur les temps de résolution de Glucose3}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{nb clauses} & \textbf{\% t clauses} & \textbf{\% t solve} & \textbf{t total (s)} \\ \hline
+\multirow{10}{4em}{\centering{6 4 3}} &  & 575064 & - & - & 200.06 \\ 
+ &  & 575064 & 0.0 & 100.0 & 161.137 \\ 
+ & 2 & 575064 & - & - & 200.273 \\ 
+ & 2\_o0 & 579816 & 5.0 & 95.0 & 12.041 \\ 
+ & 2\_o1 & 596448 & - & - & 200.079 \\ 
+ & 2\_o01 & 601200 & 7.0 & 93.0 & 11.091 \\ 
+ &  & 579816 & - & - & 200.005 \\ 
+ &  & 596448 & - & - & 200.138 \\ 
+ & 1 & 601200 & - & - & 200.041 \\ 
+ & s & 575064 & - & - & 200.02 \\ 
+\hline
+\end{tabular}
+\caption{Instance 6 4 3: influence des bs sur les temps de résolution de Glucose3}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{nb clauses} & \textbf{\% t clauses} & \textbf{\% t solve} & \textbf{t total (s)} \\ \hline
+\multirow{10}{4em}{\centering{6 5 3}} &  & 1427040 & 94.0 & 6.0 & 1.746 \\ 
+ &  & 1427040 & 26.0 & 74.0 & 6.049 \\ 
+ & 2 & 1427040 & 66.0 & 34.0 & 2.386 \\ 
+ & 2\_o0 & 1436490 & 87.0 & 13.0 & 1.79 \\ 
+ & 2\_o1 & 1483740 & 62.0 & 38.0 & 2.553 \\ 
+ & 2\_o01 & 1493190 & 67.0 & 33.0 & 2.443 \\ 
+ &  & 1436490 & 9.0 & 91.0 & 17.067 \\ 
+ &  & 1483740 & - & - & 200.179 \\ 
+ & 1 & 1493190 & 6.0 & 94.0 & 33.658 \\ 
+ & s & 1427040 & 39.0 & 61.0 & 4.738 \\ 
+\hline
+\end{tabular}
+\caption{Instance 6 5 3: influence des bs sur les temps de résolution de Glucose3}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{nb clauses} & \textbf{\% t clauses} & \textbf{\% t solve} & \textbf{t total (s)} \\ \hline
+\multirow{10}{4em}{\centering{6 6 3}} &  & 2990952 & 99.0 & 1.0 & 3.572 \\ 
+ &  & 2990952 & 98.0 & 2.0 & 3.664 \\ 
+ & 2 & 2990952 & 99.0 & 1.0 & 3.232 \\ 
+ & 2\_o0 & 3007476 & 93.0 & 7.0 & 3.476 \\ 
+ & 2\_o1 & 3114882 & 90.0 & 10.0 & 4.067 \\ 
+ & 2\_o01 & 3131406 & 76.0 & 24.0 & 4.66 \\ 
+ &  & 3007476 & 80.0 & 20.0 & 4.188 \\ 
+ &  & 3114882 & 13.0 & 87.0 & 27.538 \\ 
+ & 1 & 3131406 & 23.0 & 77.0 & 15.636 \\ 
+ & s & 2990952 & 95.0 & 5.0 & 3.269 \\ 
+\hline
+\end{tabular}
+\caption{Instance 6 6 3: influence des bs sur les temps de résolution de Glucose3}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{nb clauses} & \textbf{\% t clauses} & \textbf{\% t solve} & \textbf{t total (s)} \\ \hline
+\multirow{10}{4em}{\centering{7 5 3}} &  & 1995630 & 12.0 & 88.0 & 16.707 \\ 
+ &  & 1995630 & - & - & 201.392 \\ 
+ & 2 & 1995630 & 8.0 & 92.0 & 28.32 \\ 
+ & 2\_o0 & 2006655 & 4.0 & 96.0 & 51.641 \\ 
+ & 2\_o1 & 2061780 & 2.0 & 98.0 & 153.692 \\ 
+ & 2\_o01 & 2072805 & 5.0 & 95.0 & 50.767 \\ 
+ &  & 2006655 & - & - & 200.066 \\ 
+ &  & 2061780 & - & - & 200.0 \\ 
+ & 1 & 2072805 & - & - & 200.004 \\ 
+ & s & 1995630 & 3.0 & 97.0 & 65.758 \\ 
+\hline
+\end{tabular}
+\caption{Instance 7 5 3: influence des bs sur les temps de résolution de Glucose3}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{nb clauses} & \textbf{\% t clauses} & \textbf{\% t solve} & \textbf{t total (s)} \\ \hline
+\multirow{10}{4em}{\centering{7 5 5}} &  & 63052675 & - & - & 200.001 \\ 
+ &  & 63052675 & 97.0 & 3.0 & 78.791 \\ 
+ & 2 & 63052675 & 92.0 & 8.0 & 77.566 \\ 
+ & 2\_o0 & 63157675 & 87.0 & 13.0 & 81.671 \\ 
+ & 2\_o1 & 63577675 & 94.0 & 6.0 & 75.999 \\ 
+ & 2\_o01 & 63682675 & 63.0 & 37.0 & 131.43 \\ 
+ &  & 63157675 & - & - & 200.01 \\ 
+ &  & 63577675 & - & - & 200.012 \\ 
+ & 1 & 63682675 & - & - & 200.034 \\ 
+ & s & 63052675 & - & - & 200.056 \\ 
+\hline
+\end{tabular}
+\caption{Instance 7 5 5: influence des bs sur les temps de résolution de Glucose3}
+\end{table}
+

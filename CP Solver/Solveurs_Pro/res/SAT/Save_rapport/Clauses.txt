@@ -1,0 +1,2520 @@
+nb clauses AL: 40
+t_exec: 0.0
+
+nb clauses AM: 7600
+t_exec: 0.006
+
+nb clauses sociabilite: 684000
+t_exec: 0.833
+
+
+nb clauses AL: 48
+t_exec: 0.001
+
+nb clauses AM: 13248
+t_exec: 0.01
+
+nb clauses sociabilite: 1430784
+t_exec: 1.728
+
+
+nb clauses AL: 56
+t_exec: 0.001
+
+nb clauses AM: 21168
+t_exec: 0.015
+
+nb clauses sociabilite: 2667168
+t_exec: 2.946
+
+
+nb clauses AL: 80
+t_exec: 0.001
+
+nb clauses AM: 62400
+t_exec: 0.036
+
+nb clauses sociabilite: 19968000
+t_exec: 20.542
+
+
+nb clauses AL: 60
+t_exec: 0.0
+
+nb clauses AM: 11400
+t_exec: 0.006
+
+nb clauses sociabilite: 2052000
+t_exec: 2.426
+
+
+nb clauses AL: 72
+t_exec: 0.001
+
+nb clauses AM: 19872
+t_exec: 0.014
+
+nb clauses sociabilite: 4292352
+t_exec: 4.659
+
+
+nb clauses AL: 84
+t_exec: 0.001
+
+nb clauses AM: 31752
+t_exec: 0.026
+
+nb clauses sociabilite: 8001504
+t_exec: 8.501
+
+
+nb clauses AL: 80
+t_exec: 0.001
+
+nb clauses AM: 15200
+t_exec: 0.014
+
+nb clauses sociabilite: 4104000
+t_exec: 4.667
+
+
+nb clauses AL: 120
+t_exec: 0.002
+
+nb clauses AM: 52200
+t_exec: 0.044
+
+nb clauses sociabilite: 37584000
+t_exec: 40.359
+
+
+nb clauses AL: 112
+t_exec: 0.001
+
+nb clauses AM: 42336
+t_exec: 0.035
+
+nb clauses sociabilite: 16003008
+t_exec: 18.511
+
+
+nb clauses AL: 144
+t_exec: 0.003
+
+nb clauses AM: 90720
+t_exec: 0.061
+
+nb clauses sociabilite: 44089920
+t_exec: 45.271
+
+
+nb clauses AL: 60
+t_exec: 0.0
+
+nb clauses AM: 3960
+t_exec: 0.002
+
+nb clauses sociabilite: 380160
+t_exec: 0.416
+
+
+nb clauses AL: 100
+t_exec: 0.001
+
+nb clauses AM: 19000
+t_exec: 0.019
+
+nb clauses sociabilite: 6840000
+t_exec: 7.236
+
+
+nb clauses AL: 140
+t_exec: 0.001
+
+nb clauses AM: 52920
+t_exec: 0.052
+
+nb clauses sociabilite: 26671680
+t_exec: 28.173
+
+
+nb clauses AL: 120
+t_exec: 0.001
+
+nb clauses AM: 33120
+t_exec: 0.023
+
+nb clauses sociabilite: 6359040
+t_exec: 6.587
+
+
+nb clauses AL: 72
+t_exec: 0.0
+
+nb clauses AM: 4752
+t_exec: 0.002
+
+nb clauses sociabilite: 570240
+t_exec: 0.589
+
+
+nb clauses AL: 90
+t_exec: 0.001
+
+nb clauses AM: 9450
+t_exec: 0.008
+
+nb clauses sociabilite: 1417500
+t_exec: 1.551
+
+
+nb clauses AL: 108
+t_exec: 0.001
+
+nb clauses AM: 16524
+t_exec: 0.011
+
+nb clauses sociabilite: 2974320
+t_exec: 3.28
+
+
+nb clauses AL: 105
+t_exec: 0.001
+
+nb clauses AM: 11025
+t_exec: 0.012
+
+nb clauses sociabilite: 1984500
+t_exec: 2.18
+
+
+nb clauses AL: 175
+t_exec: 0.003
+
+nb clauses AM: 52500
+t_exec: 0.038
+
+nb clauses sociabilite: 63000000
+t_exec: 78.053
+
+
+nb clauses AL: 40
+t_exec: 0.001
+
+nb clauses AM: 7600
+t_exec: 0.01
+
+nb clauses sociabilite: 684000
+t_exec: 0.751
+
+
+nb clauses AL: 40
+t_exec: 0.0
+
+nb clauses AM: 7600
+t_exec: 0.007
+
+nb clauses sociabilite: 684000
+t_exec: 0.938
+
+
+nb clauses AL: 40
+t_exec: 0.0
+
+nb clauses AM: 7600
+t_exec: 0.005
+
+nb clauses sociabilite: 684000
+t_exec: 0.897
+
+
+nb clauses AL: 40
+t_exec: 0.0
+
+nb clauses AM: 7600
+t_exec: 0.004
+
+nb clauses sociabilite: 684000
+t_exec: 0.817
+
+
+nb clauses AL: 40
+t_exec: 0.0
+
+nb clauses AM: 7600
+t_exec: 0.004
+
+nb clauses sociabilite: 684000
+t_exec: 0.871
+
+
+nb clauses AL: 40
+t_exec: 0.0
+
+nb clauses AM: 7600
+t_exec: 0.005
+
+nb clauses sociabilite: 684000
+t_exec: 0.776
+
+
+nb clauses AL: 40
+t_exec: 0.001
+
+nb clauses AM: 7600
+t_exec: 0.006
+
+nb clauses sociabilite: 684000
+t_exec: 0.747
+
+
+nb clauses AL: 40
+t_exec: 0.0
+
+nb clauses AM: 7600
+t_exec: 0.004
+
+nb clauses sociabilite: 684000
+t_exec: 0.899
+
+
+nb clauses AL: 40
+t_exec: 0.0
+
+nb clauses AM: 7600
+t_exec: 0.004
+
+nb clauses sociabilite: 684000
+t_exec: 1.028
+
+
+nb clauses AL: 40
+t_exec: 0.0
+
+nb clauses AM: 7600
+t_exec: 0.008
+
+nb clauses sociabilite: 684000
+t_exec: 0.969
+
+
+nb clauses AL: 48
+t_exec: 0.001
+
+nb clauses AM: 13248
+t_exec: 0.012
+
+nb clauses sociabilite: 1430784
+t_exec: 1.896
+
+
+nb clauses AL: 48
+t_exec: 0.0
+
+nb clauses AM: 13248
+t_exec: 0.007
+
+nb clauses sociabilite: 1430784
+t_exec: 1.592
+
+
+nb clauses AL: 48
+t_exec: 0.0
+
+nb clauses AM: 13248
+t_exec: 0.011
+
+nb clauses sociabilite: 1430784
+t_exec: 1.711
+
+
+nb clauses AL: 48
+t_exec: 0.0
+
+nb clauses AM: 13248
+t_exec: 0.007
+
+nb clauses sociabilite: 1430784
+t_exec: 1.542
+
+
+nb clauses AL: 48
+t_exec: 0.0
+
+nb clauses AM: 13248
+t_exec: 0.007
+
+nb clauses sociabilite: 1430784
+t_exec: 1.698
+
+
+nb clauses AL: 48
+t_exec: 0.0
+
+nb clauses AM: 13248
+t_exec: 0.009
+
+nb clauses sociabilite: 1430784
+t_exec: 1.564
+
+
+nb clauses AL: 48
+t_exec: 0.001
+
+nb clauses AM: 13248
+t_exec: 0.01
+
+nb clauses sociabilite: 1430784
+t_exec: 1.58
+
+
+nb clauses AL: 48
+t_exec: 0.0
+
+nb clauses AM: 13248
+t_exec: 0.007
+
+nb clauses sociabilite: 1430784
+t_exec: 1.621
+
+
+nb clauses AL: 48
+t_exec: 0.001
+
+nb clauses AM: 13248
+t_exec: 0.013
+
+nb clauses sociabilite: 1430784
+t_exec: 1.582
+
+
+nb clauses AL: 48
+t_exec: 0.0
+
+nb clauses AM: 13248
+t_exec: 0.007
+
+nb clauses sociabilite: 1430784
+t_exec: 1.716
+
+
+nb clauses AL: 56
+t_exec: 0.001
+
+nb clauses AM: 21168
+t_exec: 0.019
+
+nb clauses sociabilite: 2667168
+t_exec: 3.28
+
+
+nb clauses AL: 56
+t_exec: 0.001
+
+nb clauses AM: 21168
+t_exec: 0.016
+
+nb clauses sociabilite: 2667168
+t_exec: 3.18
+
+
+nb clauses AL: 56
+t_exec: 0.0
+
+nb clauses AM: 21168
+t_exec: 0.011
+
+nb clauses sociabilite: 2667168
+t_exec: 2.909
+
+
+nb clauses AL: 56
+t_exec: 0.001
+
+nb clauses AM: 21168
+t_exec: 0.019
+
+nb clauses sociabilite: 2667168
+t_exec: 3.188
+
+
+nb clauses AL: 56
+t_exec: 0.0
+
+nb clauses AM: 21168
+t_exec: 0.012
+
+nb clauses sociabilite: 2667168
+t_exec: 3.126
+
+
+nb clauses AL: 56
+t_exec: 0.001
+
+nb clauses AM: 21168
+t_exec: 0.017
+
+nb clauses sociabilite: 2667168
+t_exec: 2.954
+
+
+nb clauses AL: 56
+t_exec: 0.0
+
+nb clauses AM: 21168
+t_exec: 0.018
+
+nb clauses sociabilite: 2667168
+t_exec: 2.849
+
+
+nb clauses AL: 56
+t_exec: 0.0
+
+nb clauses AM: 21168
+t_exec: 0.015
+
+nb clauses sociabilite: 2667168
+t_exec: 2.831
+
+
+nb clauses AL: 56
+t_exec: 0.0
+
+nb clauses AM: 21168
+t_exec: 0.014
+
+nb clauses sociabilite: 2667168
+t_exec: 2.949
+
+
+nb clauses AL: 56
+t_exec: 0.0
+
+nb clauses AM: 21168
+t_exec: 0.014
+
+nb clauses sociabilite: 2667168
+t_exec: 2.906
+
+
+nb clauses AL: 80
+t_exec: 0.001
+
+nb clauses AM: 62400
+t_exec: 0.052
+
+nb clauses sociabilite: 19968000
+t_exec: 21.587
+
+
+nb clauses AL: 80
+t_exec: 0.001
+
+nb clauses AM: 62400
+t_exec: 0.044
+
+nb clauses sociabilite: 19968000
+t_exec: 22.122
+
+
+nb clauses AL: 80
+t_exec: 0.001
+
+nb clauses AM: 62400
+t_exec: 0.042
+
+nb clauses sociabilite: 19968000
+t_exec: 22.258
+
+
+nb clauses AL: 80
+t_exec: 0.001
+
+nb clauses AM: 62400
+t_exec: 0.034
+
+nb clauses sociabilite: 19968000
+t_exec: 21.708
+
+
+nb clauses AL: 80
+t_exec: 0.001
+
+nb clauses AM: 62400
+t_exec: 0.046
+
+nb clauses sociabilite: 19968000
+t_exec: 22.262
+
+
+nb clauses AL: 80
+t_exec: 0.001
+
+nb clauses AM: 62400
+t_exec: 0.047
+
+nb clauses sociabilite: 19968000
+t_exec: 21.961
+
+
+nb clauses AL: 80
+t_exec: 0.001
+
+nb clauses AM: 62400
+t_exec: 0.039
+
+nb clauses sociabilite: 19968000
+t_exec: 22.983
+
+
+nb clauses AL: 80
+t_exec: 0.001
+
+nb clauses AM: 62400
+t_exec: 0.052
+
+nb clauses sociabilite: 19968000
+t_exec: 22.782
+
+
+nb clauses AL: 80
+t_exec: 0.001
+
+nb clauses AM: 62400
+t_exec: 0.051
+
+nb clauses sociabilite: 19968000
+t_exec: 22.987
+
+
+nb clauses AL: 80
+t_exec: 0.001
+
+nb clauses AM: 62400
+t_exec: 0.049
+
+nb clauses sociabilite: 19968000
+t_exec: 23.118
+
+
+nb clauses AL: 60
+t_exec: 0.0
+
+nb clauses AM: 11400
+t_exec: 0.01
+
+nb clauses sociabilite: 2052000
+t_exec: 2.269
+
+
+nb clauses AL: 60
+t_exec: 0.001
+
+nb clauses AM: 11400
+t_exec: 0.009
+
+nb clauses sociabilite: 2052000
+t_exec: 2.252
+
+
+nb clauses AL: 60
+t_exec: 0.001
+
+nb clauses AM: 11400
+t_exec: 0.011
+
+nb clauses sociabilite: 2052000
+t_exec: 2.25
+
+
+nb clauses AL: 60
+t_exec: 0.0
+
+nb clauses AM: 11400
+t_exec: 0.008
+
+nb clauses sociabilite: 2052000
+t_exec: 2.252
+
+
+nb clauses AL: 60
+t_exec: 0.0
+
+nb clauses AM: 11400
+t_exec: 0.009
+
+nb clauses sociabilite: 2052000
+t_exec: 2.302
+
+
+nb clauses AL: 60
+t_exec: 0.001
+
+nb clauses AM: 11400
+t_exec: 0.011
+
+nb clauses sociabilite: 2052000
+t_exec: 2.221
+
+
+nb clauses AL: 60
+t_exec: 0.0
+
+nb clauses AM: 11400
+t_exec: 0.007
+
+nb clauses sociabilite: 2052000
+t_exec: 2.153
+
+
+nb clauses AL: 60
+t_exec: 0.001
+
+nb clauses AM: 11400
+t_exec: 0.007
+
+nb clauses sociabilite: 2052000
+t_exec: 2.13
+
+
+nb clauses AL: 60
+t_exec: 0.001
+
+nb clauses AM: 11400
+t_exec: 0.009
+
+nb clauses sociabilite: 2052000
+t_exec: 2.172
+
+
+nb clauses AL: 60
+t_exec: 0.001
+
+nb clauses AM: 11400
+t_exec: 0.006
+
+nb clauses sociabilite: 2052000
+t_exec: 2.23
+
+
+nb clauses AL: 72
+t_exec: 0.001
+
+nb clauses AM: 19872
+t_exec: 0.012
+
+nb clauses sociabilite: 4292352
+t_exec: 4.688
+
+
+nb clauses AL: 72
+t_exec: 0.001
+
+nb clauses AM: 19872
+t_exec: 0.01
+
+nb clauses sociabilite: 4292352
+t_exec: 4.558
+
+
+nb clauses AL: 72
+t_exec: 0.001
+
+nb clauses AM: 19872
+t_exec: 0.021
+
+nb clauses sociabilite: 4292352
+t_exec: 4.663
+
+
+nb clauses AL: 72
+t_exec: 0.001
+
+nb clauses AM: 19872
+t_exec: 0.021
+
+nb clauses sociabilite: 4292352
+t_exec: 5.568
+
+
+nb clauses AL: 72
+t_exec: 0.001
+
+nb clauses AM: 19872
+t_exec: 0.015
+
+nb clauses sociabilite: 4292352
+t_exec: 5.36
+
+
+nb clauses AL: 72
+t_exec: 0.0
+
+nb clauses AM: 19872
+t_exec: 0.014
+
+nb clauses sociabilite: 4292352
+t_exec: 4.556
+
+
+nb clauses AL: 72
+t_exec: 0.0
+
+nb clauses AM: 19872
+t_exec: 0.016
+
+nb clauses sociabilite: 4292352
+t_exec: 4.497
+
+
+nb clauses AL: 72
+t_exec: 0.001
+
+nb clauses AM: 19872
+t_exec: 0.013
+
+nb clauses sociabilite: 4292352
+t_exec: 4.466
+
+
+nb clauses AL: 72
+t_exec: 0.0
+
+nb clauses AM: 19872
+t_exec: 0.015
+
+nb clauses sociabilite: 4292352
+t_exec: 4.56
+
+
+nb clauses AL: 72
+t_exec: 0.0
+
+nb clauses AM: 19872
+t_exec: 0.012
+
+nb clauses sociabilite: 4292352
+t_exec: 4.836
+
+
+nb clauses AL: 84
+t_exec: 0.001
+
+nb clauses AM: 31752
+t_exec: 0.021
+
+nb clauses sociabilite: 8001504
+t_exec: 9.241
+
+
+nb clauses AL: 84
+t_exec: 0.001
+
+nb clauses AM: 31752
+t_exec: 0.022
+
+nb clauses sociabilite: 8001504
+t_exec: 10.152
+
+
+nb clauses AL: 84
+t_exec: 0.001
+
+nb clauses AM: 31752
+t_exec: 0.025
+
+nb clauses sociabilite: 8001504
+t_exec: 9.687
+
+
+nb clauses AL: 84
+t_exec: 0.001
+
+nb clauses AM: 31752
+t_exec: 0.02
+
+nb clauses sociabilite: 8001504
+t_exec: 10.354
+
+
+nb clauses AL: 84
+t_exec: 0.001
+
+nb clauses AM: 31752
+t_exec: 0.024
+
+nb clauses sociabilite: 8001504
+t_exec: 11.177
+
+
+nb clauses AL: 84
+t_exec: 0.001
+
+nb clauses AM: 31752
+t_exec: 0.019
+
+nb clauses sociabilite: 8001504
+t_exec: 10.95
+
+
+nb clauses AL: 84
+t_exec: 0.001
+
+nb clauses AM: 31752
+t_exec: 0.023
+
+nb clauses sociabilite: 8001504
+t_exec: 10.258
+
+
+nb clauses AL: 84
+t_exec: 0.001
+
+nb clauses AM: 31752
+t_exec: 0.034
+
+nb clauses sociabilite: 8001504
+t_exec: 10.875
+
+
+nb clauses AL: 84
+t_exec: 0.001
+
+nb clauses AM: 31752
+t_exec: 0.025
+
+nb clauses sociabilite: 8001504
+t_exec: 9.935
+
+
+nb clauses AL: 84
+t_exec: 0.001
+
+nb clauses AM: 31752
+t_exec: 0.019
+
+nb clauses sociabilite: 8001504
+t_exec: 8.844
+
+
+nb clauses AL: 80
+t_exec: 0.0
+
+nb clauses AM: 15200
+t_exec: 0.011
+
+nb clauses sociabilite: 4104000
+t_exec: 4.916
+
+
+nb clauses AL: 80
+t_exec: 0.001
+
+nb clauses AM: 15200
+t_exec: 0.01
+
+nb clauses sociabilite: 4104000
+t_exec: 4.482
+
+
+nb clauses AL: 80
+t_exec: 0.0
+
+nb clauses AM: 15200
+t_exec: 0.011
+
+nb clauses sociabilite: 4104000
+t_exec: 5.215
+
+
+nb clauses AL: 80
+t_exec: 0.0
+
+nb clauses AM: 15200
+t_exec: 0.008
+
+nb clauses sociabilite: 4104000
+t_exec: 4.578
+
+
+nb clauses AL: 80
+t_exec: 0.001
+
+nb clauses AM: 15200
+t_exec: 0.013
+
+nb clauses sociabilite: 4104000
+t_exec: 4.867
+
+
+nb clauses AL: 80
+t_exec: 0.0
+
+nb clauses AM: 15200
+t_exec: 0.009
+
+nb clauses sociabilite: 4104000
+t_exec: 4.556
+
+
+nb clauses AL: 80
+t_exec: 0.001
+
+nb clauses AM: 15200
+t_exec: 0.014
+
+nb clauses sociabilite: 4104000
+t_exec: 4.744
+
+
+nb clauses AL: 80
+t_exec: 0.001
+
+nb clauses AM: 15200
+t_exec: 0.011
+
+nb clauses sociabilite: 4104000
+t_exec: 5.406
+
+
+nb clauses AL: 80
+t_exec: 0.0
+
+nb clauses AM: 15200
+t_exec: 0.008
+
+nb clauses sociabilite: 4104000
+t_exec: 4.444
+
+
+nb clauses AL: 80
+t_exec: 0.001
+
+nb clauses AM: 15200
+t_exec: 0.013
+
+nb clauses sociabilite: 4104000
+t_exec: 5.263
+
+
+nb clauses AL: 120
+t_exec: 0.001
+
+nb clauses AM: 52200
+t_exec: 0.038
+
+nb clauses sociabilite: 37584000
+t_exec: 50.885
+
+
+nb clauses AL: 120
+t_exec: 0.001
+
+nb clauses AM: 52200
+t_exec: 0.037
+
+nb clauses sociabilite: 37584000
+t_exec: 46.119
+
+
+nb clauses AL: 120
+t_exec: 0.001
+
+nb clauses AM: 52200
+t_exec: 0.032
+
+nb clauses sociabilite: 37584000
+t_exec: 44.334
+
+
+nb clauses AL: 120
+t_exec: 0.001
+
+nb clauses AM: 52200
+t_exec: 0.043
+
+nb clauses sociabilite: 37584000
+t_exec: 48.815
+
+
+nb clauses AL: 120
+t_exec: 0.018
+
+nb clauses AM: 52200
+t_exec: 0.035
+
+nb clauses sociabilite: 37584000
+t_exec: 46.95
+
+
+nb clauses AL: 120
+t_exec: 0.001
+
+nb clauses AM: 52200
+t_exec: 0.043
+
+nb clauses sociabilite: 37584000
+t_exec: 42.604
+
+
+nb clauses AL: 120
+t_exec: 0.001
+
+nb clauses AM: 52200
+t_exec: 0.043
+
+nb clauses sociabilite: 37584000
+t_exec: 44.486
+
+
+nb clauses AL: 120
+t_exec: 0.002
+
+nb clauses AM: 52200
+t_exec: 0.041
+
+nb clauses sociabilite: 37584000
+t_exec: 43.837
+
+
+nb clauses AL: 120
+t_exec: 0.002
+
+nb clauses AM: 52200
+t_exec: 0.05
+
+nb clauses sociabilite: 37584000
+t_exec: 45.766
+
+
+nb clauses AL: 120
+t_exec: 0.002
+
+nb clauses AM: 52200
+t_exec: 0.038
+
+nb clauses sociabilite: 37584000
+t_exec: 40.572
+
+
+nb clauses AL: 112
+t_exec: 0.002
+
+nb clauses AM: 42336
+t_exec: 0.042
+
+nb clauses sociabilite: 16003008
+t_exec: 17.435
+
+
+nb clauses AL: 112
+t_exec: 0.001
+
+nb clauses AM: 42336
+t_exec: 0.025
+
+nb clauses sociabilite: 16003008
+t_exec: 17.43
+
+
+nb clauses AL: 112
+t_exec: 0.006
+
+nb clauses AM: 42336
+t_exec: 0.03
+
+nb clauses sociabilite: 16003008
+t_exec: 17.946
+
+
+nb clauses AL: 112
+t_exec: 0.002
+
+nb clauses AM: 42336
+t_exec: 0.036
+
+nb clauses sociabilite: 16003008
+t_exec: 19.909
+
+
+nb clauses AL: 112
+t_exec: 0.001
+
+nb clauses AM: 42336
+t_exec: 0.037
+
+nb clauses sociabilite: 16003008
+t_exec: 19.442
+
+
+nb clauses AL: 112
+t_exec: 0.001
+
+nb clauses AM: 42336
+t_exec: 0.034
+
+nb clauses sociabilite: 16003008
+t_exec: 19.694
+
+
+nb clauses AL: 112
+t_exec: 0.006
+
+nb clauses AM: 42336
+t_exec: 0.039
+
+nb clauses sociabilite: 16003008
+t_exec: 18.372
+
+
+nb clauses AL: 112
+t_exec: 0.001
+
+nb clauses AM: 42336
+t_exec: 0.026
+
+nb clauses sociabilite: 16003008
+t_exec: 17.688
+
+
+nb clauses AL: 112
+t_exec: 0.001
+
+nb clauses AM: 42336
+t_exec: 0.042
+
+nb clauses sociabilite: 16003008
+t_exec: 17.934
+
+
+nb clauses AL: 112
+t_exec: 0.001
+
+nb clauses AM: 42336
+t_exec: 0.034
+
+nb clauses sociabilite: 16003008
+t_exec: 17.376
+
+
+nb clauses AL: 144
+t_exec: 0.002
+
+nb clauses AM: 90720
+t_exec: 0.072
+
+nb clauses sociabilite: 44089920
+t_exec: 48.713
+
+
+nb clauses AL: 144
+t_exec: 0.001
+
+nb clauses AM: 90720
+t_exec: 0.061
+
+nb clauses sociabilite: 44089920
+t_exec: 48.382
+
+
+nb clauses AL: 144
+t_exec: 0.002
+
+nb clauses AM: 90720
+t_exec: 0.065
+
+nb clauses sociabilite: 44089920
+t_exec: 49.295
+
+
+nb clauses AL: 144
+t_exec: 0.001
+
+nb clauses AM: 90720
+t_exec: 0.067
+
+nb clauses sociabilite: 44089920
+t_exec: 49.519
+
+
+nb clauses AL: 144
+t_exec: 0.001
+
+nb clauses AM: 90720
+t_exec: 0.068
+
+nb clauses sociabilite: 44089920
+t_exec: 48.578
+
+
+nb clauses AL: 144
+t_exec: 0.001
+
+nb clauses AM: 90720
+t_exec: 0.07
+
+nb clauses sociabilite: 44089920
+t_exec: 48.226
+
+
+nb clauses AL: 144
+t_exec: 0.003
+
+nb clauses AM: 90720
+t_exec: 0.093
+
+nb clauses sociabilite: 44089920
+t_exec: 48.713
+
+
+nb clauses AL: 144
+t_exec: 0.002
+
+nb clauses AM: 90720
+t_exec: 0.064
+
+nb clauses sociabilite: 44089920
+t_exec: 48.079
+
+
+nb clauses AL: 144
+t_exec: 0.017
+
+nb clauses AM: 90720
+t_exec: 0.138
+
+nb clauses sociabilite: 44089920
+t_exec: 49.386
+
+
+nb clauses AL: 144
+t_exec: 0.005
+
+nb clauses AM: 90720
+t_exec: 0.056
+
+nb clauses sociabilite: 44089920
+t_exec: 48.175
+
+
+nb clauses AL: 60
+t_exec: 0.0
+
+nb clauses AM: 3960
+t_exec: 0.004
+
+nb clauses sociabilite: 380160
+t_exec: 0.457
+
+
+nb clauses AL: 60
+t_exec: 0.0
+
+nb clauses AM: 3960
+t_exec: 0.003
+
+nb clauses sociabilite: 380160
+t_exec: 0.435
+
+
+nb clauses AL: 60
+t_exec: 0.0
+
+nb clauses AM: 3960
+t_exec: 0.002
+
+nb clauses sociabilite: 380160
+t_exec: 0.466
+
+
+nb clauses AL: 60
+t_exec: 0.0
+
+nb clauses AM: 3960
+t_exec: 0.002
+
+nb clauses sociabilite: 380160
+t_exec: 0.508
+
+
+nb clauses AL: 60
+t_exec: 0.0
+
+nb clauses AM: 3960
+t_exec: 0.003
+
+nb clauses sociabilite: 380160
+t_exec: 0.446
+
+
+nb clauses AL: 60
+t_exec: 0.0
+
+nb clauses AM: 3960
+t_exec: 0.002
+
+nb clauses sociabilite: 380160
+t_exec: 0.477
+
+
+nb clauses AL: 60
+t_exec: 0.001
+
+nb clauses AM: 3960
+t_exec: 0.003
+
+nb clauses sociabilite: 380160
+t_exec: 0.427
+
+
+nb clauses AL: 60
+t_exec: 0.0
+
+nb clauses AM: 3960
+t_exec: 0.004
+
+nb clauses sociabilite: 380160
+t_exec: 0.445
+
+
+nb clauses AL: 60
+t_exec: 0.0
+
+nb clauses AM: 3960
+t_exec: 0.004
+
+nb clauses sociabilite: 380160
+t_exec: 0.441
+
+
+nb clauses AL: 60
+t_exec: 0.0
+
+nb clauses AM: 3960
+t_exec: 0.002
+
+nb clauses sociabilite: 380160
+t_exec: 0.426
+
+
+nb clauses AL: 100
+t_exec: 0.001
+
+nb clauses AM: 19000
+t_exec: 0.01
+
+nb clauses sociabilite: 6840000
+t_exec: 7.902
+
+
+nb clauses AL: 100
+t_exec: 0.001
+
+nb clauses AM: 19000
+t_exec: 0.019
+
+nb clauses sociabilite: 6840000
+t_exec: 7.426
+
+
+nb clauses AL: 100
+t_exec: 0.0
+
+nb clauses AM: 19000
+t_exec: 0.015
+
+nb clauses sociabilite: 6840000
+t_exec: 7.298
+
+
+nb clauses AL: 100
+t_exec: 0.001
+
+nb clauses AM: 19000
+t_exec: 0.013
+
+nb clauses sociabilite: 6840000
+t_exec: 7.716
+
+
+nb clauses AL: 100
+t_exec: 0.001
+
+nb clauses AM: 19000
+t_exec: 0.012
+
+nb clauses sociabilite: 6840000
+t_exec: 7.62
+
+
+nb clauses AL: 100
+t_exec: 0.001
+
+nb clauses AM: 19000
+t_exec: 0.014
+
+nb clauses sociabilite: 6840000
+t_exec: 7.357
+
+
+nb clauses AL: 100
+t_exec: 0.001
+
+nb clauses AM: 19000
+t_exec: 0.015
+
+nb clauses sociabilite: 6840000
+t_exec: 7.333
+
+
+nb clauses AL: 100
+t_exec: 0.001
+
+nb clauses AM: 19000
+t_exec: 0.014
+
+nb clauses sociabilite: 6840000
+t_exec: 7.761
+
+
+nb clauses AL: 100
+t_exec: 0.001
+
+nb clauses AM: 19000
+t_exec: 0.015
+
+nb clauses sociabilite: 6840000
+t_exec: 8.046
+
+
+nb clauses AL: 100
+t_exec: 0.001
+
+nb clauses AM: 19000
+t_exec: 0.022
+
+nb clauses sociabilite: 6840000
+t_exec: 7.154
+
+
+nb clauses AL: 140
+t_exec: 0.001
+
+nb clauses AM: 52920
+t_exec: 0.041
+
+nb clauses sociabilite: 26671680
+t_exec: 28.036
+
+
+nb clauses AL: 140
+t_exec: 0.001
+
+nb clauses AM: 52920
+t_exec: 0.034
+
+nb clauses sociabilite: 26671680
+t_exec: 27.95
+
+
+nb clauses AL: 140
+t_exec: 0.001
+
+nb clauses AM: 52920
+t_exec: 0.034
+
+nb clauses sociabilite: 26671680
+t_exec: 28.808
+
+
+nb clauses AL: 140
+t_exec: 0.001
+
+nb clauses AM: 52920
+t_exec: 0.037
+
+nb clauses sociabilite: 26671680
+t_exec: 29.877
+
+
+nb clauses AL: 140
+t_exec: 0.001
+
+nb clauses AM: 52920
+t_exec: 0.037
+
+nb clauses sociabilite: 26671680
+t_exec: 32.482
+
+
+nb clauses AL: 140
+t_exec: 0.001
+
+nb clauses AM: 52920
+t_exec: 0.033
+
+nb clauses sociabilite: 26671680
+t_exec: 28.391
+
+
+nb clauses AL: 140
+t_exec: 0.001
+
+nb clauses AM: 52920
+t_exec: 0.036
+
+nb clauses sociabilite: 26671680
+t_exec: 28.874
+
+
+nb clauses AL: 140
+t_exec: 0.001
+
+nb clauses AM: 52920
+t_exec: 0.04
+
+nb clauses sociabilite: 26671680
+t_exec: 30.538
+
+
+nb clauses AL: 140
+t_exec: 0.001
+
+nb clauses AM: 52920
+t_exec: 0.041
+
+nb clauses sociabilite: 26671680
+t_exec: 29.538
+
+
+nb clauses AL: 140
+t_exec: 0.001
+
+nb clauses AM: 52920
+t_exec: 0.04
+
+nb clauses sociabilite: 26671680
+t_exec: 28.582
+
+
+nb clauses AL: 120
+t_exec: 0.002
+
+nb clauses AM: 33120
+t_exec: 0.026
+
+nb clauses sociabilite: 6359040
+t_exec: 6.864
+
+
+nb clauses AL: 120
+t_exec: 0.002
+
+nb clauses AM: 33120
+t_exec: 0.027
+
+nb clauses sociabilite: 6359040
+t_exec: 7.169
+
+
+nb clauses AL: 120
+t_exec: 0.001
+
+nb clauses AM: 33120
+t_exec: 0.02
+
+nb clauses sociabilite: 6359040
+t_exec: 6.807
+
+
+nb clauses AL: 120
+t_exec: 0.002
+
+nb clauses AM: 33120
+t_exec: 0.023
+
+nb clauses sociabilite: 6359040
+t_exec: 6.912
+
+
+nb clauses AL: 120
+t_exec: 0.002
+
+nb clauses AM: 33120
+t_exec: 0.025
+
+nb clauses sociabilite: 6359040
+t_exec: 7.243
+
+
+nb clauses AL: 120
+t_exec: 0.001
+
+nb clauses AM: 33120
+t_exec: 0.034
+
+nb clauses sociabilite: 6359040
+t_exec: 7.241
+
+
+nb clauses AL: 120
+t_exec: 0.001
+
+nb clauses AM: 33120
+t_exec: 0.034
+
+nb clauses sociabilite: 6359040
+t_exec: 6.838
+
+
+nb clauses AL: 120
+t_exec: 0.001
+
+nb clauses AM: 33120
+t_exec: 0.033
+
+nb clauses sociabilite: 6359040
+t_exec: 6.757
+
+
+nb clauses AL: 120
+t_exec: 0.001
+
+nb clauses AM: 33120
+t_exec: 0.029
+
+nb clauses sociabilite: 6359040
+t_exec: 6.856
+
+
+nb clauses AL: 120
+t_exec: 0.002
+
+nb clauses AM: 33120
+t_exec: 0.025
+
+nb clauses sociabilite: 6359040
+t_exec: 6.903
+
+
+nb clauses AL: 72
+t_exec: 0.001
+
+nb clauses AM: 4752
+t_exec: 0.006
+
+nb clauses sociabilite: 570240
+t_exec: 0.624
+
+
+nb clauses AL: 72
+t_exec: 0.0
+
+nb clauses AM: 4752
+t_exec: 0.003
+
+nb clauses sociabilite: 570240
+t_exec: 0.627
+
+
+nb clauses AL: 72
+t_exec: 0.001
+
+nb clauses AM: 4752
+t_exec: 0.005
+
+nb clauses sociabilite: 570240
+t_exec: 0.688
+
+
+nb clauses AL: 72
+t_exec: 0.0
+
+nb clauses AM: 4752
+t_exec: 0.003
+
+nb clauses sociabilite: 570240
+t_exec: 0.624
+
+
+nb clauses AL: 72
+t_exec: 0.0
+
+nb clauses AM: 4752
+t_exec: 0.003
+
+nb clauses sociabilite: 570240
+t_exec: 0.686
+
+
+nb clauses AL: 72
+t_exec: 0.0
+
+nb clauses AM: 4752
+t_exec: 0.003
+
+nb clauses sociabilite: 570240
+t_exec: 0.668
+
+
+nb clauses AL: 72
+t_exec: 0.0
+
+nb clauses AM: 4752
+t_exec: 0.003
+
+nb clauses sociabilite: 570240
+t_exec: 0.675
+
+
+nb clauses AL: 72
+t_exec: 0.0
+
+nb clauses AM: 4752
+t_exec: 0.003
+
+nb clauses sociabilite: 570240
+t_exec: 0.637
+
+
+nb clauses AL: 72
+t_exec: 0.0
+
+nb clauses AM: 4752
+t_exec: 0.003
+
+nb clauses sociabilite: 570240
+t_exec: 0.683
+
+
+nb clauses AL: 72
+t_exec: 0.0
+
+nb clauses AM: 4752
+t_exec: 0.003
+
+nb clauses sociabilite: 570240
+t_exec: 0.658
+
+
+nb clauses AL: 90
+t_exec: 0.0
+
+nb clauses AM: 9450
+t_exec: 0.005
+
+nb clauses sociabilite: 1417500
+t_exec: 1.639
+
+
+nb clauses AL: 90
+t_exec: 0.001
+
+nb clauses AM: 9450
+t_exec: 0.006
+
+nb clauses sociabilite: 1417500
+t_exec: 1.545
+
+
+nb clauses AL: 90
+t_exec: 0.001
+
+nb clauses AM: 9450
+t_exec: 0.009
+
+nb clauses sociabilite: 1417500
+t_exec: 1.573
+
+
+nb clauses AL: 90
+t_exec: 0.001
+
+nb clauses AM: 9450
+t_exec: 0.009
+
+nb clauses sociabilite: 1417500
+t_exec: 1.533
+
+
+nb clauses AL: 90
+t_exec: 0.0
+
+nb clauses AM: 9450
+t_exec: 0.005
+
+nb clauses sociabilite: 1417500
+t_exec: 1.46
+
+
+nb clauses AL: 90
+t_exec: 0.001
+
+nb clauses AM: 9450
+t_exec: 0.009
+
+nb clauses sociabilite: 1417500
+t_exec: 1.506
+
+
+nb clauses AL: 90
+t_exec: 0.001
+
+nb clauses AM: 9450
+t_exec: 0.006
+
+nb clauses sociabilite: 1417500
+t_exec: 1.6
+
+
+nb clauses AL: 90
+t_exec: 0.001
+
+nb clauses AM: 9450
+t_exec: 0.009
+
+nb clauses sociabilite: 1417500
+t_exec: 1.618
+
+
+nb clauses AL: 90
+t_exec: 0.0
+
+nb clauses AM: 9450
+t_exec: 0.005
+
+nb clauses sociabilite: 1417500
+t_exec: 1.921
+
+
+nb clauses AL: 90
+t_exec: 0.0
+
+nb clauses AM: 9450
+t_exec: 0.012
+
+nb clauses sociabilite: 1417500
+t_exec: 1.855
+
+
+nb clauses AL: 108
+t_exec: 0.001
+
+nb clauses AM: 16524
+t_exec: 0.017
+
+nb clauses sociabilite: 2974320
+t_exec: 3.505
+
+
+nb clauses AL: 108
+t_exec: 0.001
+
+nb clauses AM: 16524
+t_exec: 0.017
+
+nb clauses sociabilite: 2974320
+t_exec: 3.588
+
+
+nb clauses AL: 108
+t_exec: 0.001
+
+nb clauses AM: 16524
+t_exec: 0.015
+
+nb clauses sociabilite: 2974320
+t_exec: 3.183
+
+
+nb clauses AL: 108
+t_exec: 0.001
+
+nb clauses AM: 16524
+t_exec: 0.016
+
+nb clauses sociabilite: 2974320
+t_exec: 3.215
+
+
+nb clauses AL: 108
+t_exec: 0.001
+
+nb clauses AM: 16524
+t_exec: 0.012
+
+nb clauses sociabilite: 2974320
+t_exec: 3.381
+
+
+nb clauses AL: 108
+t_exec: 0.001
+
+nb clauses AM: 16524
+t_exec: 0.013
+
+nb clauses sociabilite: 2974320
+t_exec: 3.272
+
+
+nb clauses AL: 108
+t_exec: 0.001
+
+nb clauses AM: 16524
+t_exec: 0.012
+
+nb clauses sociabilite: 2974320
+t_exec: 3.319
+
+
+nb clauses AL: 108
+t_exec: 0.001
+
+nb clauses AM: 16524
+t_exec: 0.016
+
+nb clauses sociabilite: 2974320
+t_exec: 3.298
+
+
+nb clauses AL: 108
+t_exec: 0.001
+
+nb clauses AM: 16524
+t_exec: 0.012
+
+nb clauses sociabilite: 2974320
+t_exec: 3.227
+
+
+nb clauses AL: 108
+t_exec: 0.001
+
+nb clauses AM: 16524
+t_exec: 0.011
+
+nb clauses sociabilite: 2974320
+t_exec: 3.082
+
+
+nb clauses AL: 105
+t_exec: 0.001
+
+nb clauses AM: 11025
+t_exec: 0.006
+
+nb clauses sociabilite: 1984500
+t_exec: 2.056
+
+
+nb clauses AL: 105
+t_exec: 0.001
+
+nb clauses AM: 11025
+t_exec: 0.011
+
+nb clauses sociabilite: 1984500
+t_exec: 2.808
+
+
+nb clauses AL: 105
+t_exec: 0.001
+
+nb clauses AM: 11025
+t_exec: 0.01
+
+nb clauses sociabilite: 1984500
+t_exec: 2.141
+
+
+nb clauses AL: 105
+t_exec: 0.001
+
+nb clauses AM: 11025
+t_exec: 0.011
+
+nb clauses sociabilite: 1984500
+t_exec: 2.091
+
+
+nb clauses AL: 105
+t_exec: 0.001
+
+nb clauses AM: 11025
+t_exec: 0.006
+
+nb clauses sociabilite: 1984500
+t_exec: 2.164
+
+
+nb clauses AL: 105
+t_exec: 0.001
+
+nb clauses AM: 11025
+t_exec: 0.011
+
+nb clauses sociabilite: 1984500
+t_exec: 2.16
+
+
+nb clauses AL: 105
+t_exec: 0.0
+
+nb clauses AM: 11025
+t_exec: 0.006
+
+nb clauses sociabilite: 1984500
+t_exec: 2.081
+
+
+nb clauses AL: 105
+t_exec: 0.001
+
+nb clauses AM: 11025
+t_exec: 0.011
+
+nb clauses sociabilite: 1984500
+t_exec: 2.306
+
+
+nb clauses AL: 105
+t_exec: 0.001
+
+nb clauses AM: 11025
+t_exec: 0.006
+
+nb clauses sociabilite: 1984500
+t_exec: 2.202
+
+
+nb clauses AL: 105
+t_exec: 0.001
+
+nb clauses AM: 11025
+t_exec: 0.007
+
+nb clauses sociabilite: 1984500
+t_exec: 2.081
+
+
+nb clauses AL: 175
+t_exec: 0.002
+
+nb clauses AM: 52500
+t_exec: 0.04
+
+nb clauses sociabilite: 63000000
+t_exec: 74.464
+
+
+nb clauses AL: 175
+t_exec: 0.002
+
+nb clauses AM: 52500
+t_exec: 0.04
+
+nb clauses sociabilite: 63000000
+t_exec: 76.361
+
+
+nb clauses AL: 175
+t_exec: 0.016
+
+nb clauses AM: 52500
+t_exec: 0.044
+
+nb clauses sociabilite: 63000000
+t_exec: 71.112
+
+
+nb clauses AL: 175
+t_exec: 0.001
+
+nb clauses AM: 52500
+t_exec: 0.033
+
+nb clauses sociabilite: 63000000
+t_exec: 70.709
+
+
+nb clauses AL: 175
+t_exec: 0.002
+
+nb clauses AM: 52500
+t_exec: 0.048
+
+nb clauses sociabilite: 63000000
+t_exec: 69.342
+
+
+nb clauses AL: 175
+t_exec: 0.002
+
+nb clauses AM: 52500
+t_exec: 0.043
+
+nb clauses sociabilite: 63000000
+t_exec: 80.881
+
+
+nb clauses AL: 175
+t_exec: 0.001
+
+nb clauses AM: 52500
+t_exec: 0.033
+
+nb clauses sociabilite: 63000000
+t_exec: 74.022
+
+
+nb clauses AL: 175
+t_exec: 0.001
+
+nb clauses AM: 52500
+t_exec: 0.041
+
+nb clauses sociabilite: 63000000
+t_exec: 74.413
+
+
+nb clauses AL: 175
+t_exec: 0.001
+
+nb clauses AM: 52500
+t_exec: 0.045
+
+nb clauses sociabilite: 63000000
+t_exec: 69.743
+
+
+nb clauses AL: 175
+t_exec: 0.001
+
+nb clauses AM: 52500
+t_exec: 0.033
+
+nb clauses sociabilite: 63000000
+t_exec: 74.935
+
+
+nb clauses AL: 40
+t_exec: 0.0
+
+nb clauses AM: 7600
+t_exec: 0.007
+
+nb clauses sociabilite: 684000
+t_exec: 0.715
+
+
+nb clauses AL: 48
+t_exec: 0.001
+
+nb clauses AM: 13248
+t_exec: 0.009
+
+nb clauses sociabilite: 1430784
+t_exec: 1.474
+
+
+nb clauses AL: 56
+t_exec: 0.0
+
+nb clauses AM: 21168
+t_exec: 0.012
+
+nb clauses sociabilite: 2667168
+t_exec: 2.666
+
+
+nb clauses AL: 80
+t_exec: 0.001
+
+nb clauses AM: 62400
+t_exec: 0.045
+
+nb clauses sociabilite: 19968000
+t_exec: 19.951
+
+
+nb clauses AL: 60
+t_exec: 0.0
+
+nb clauses AM: 11400
+t_exec: 0.01
+
+nb clauses sociabilite: 2052000
+t_exec: 2.058
+
+
+nb clauses AL: 72
+t_exec: 0.0
+
+nb clauses AM: 19872
+t_exec: 0.011
+
+nb clauses sociabilite: 4292352
+t_exec: 4.292
+
+
+nb clauses AL: 84
+t_exec: 0.003
+
+nb clauses AM: 31752
+t_exec: 0.026
+
+nb clauses sociabilite: 8001504
+t_exec: 7.92
+
+
+nb clauses AL: 80
+t_exec: 0.001
+
+nb clauses AM: 15200
+t_exec: 0.009
+
+nb clauses sociabilite: 4104000
+t_exec: 4.155
+
+
+nb clauses AL: 120
+t_exec: 0.001
+
+nb clauses AM: 52200
+t_exec: 0.034
+
+nb clauses sociabilite: 37584000
+t_exec: 37.633
+
+
+nb clauses AL: 112
+t_exec: 0.001
+
+nb clauses AM: 42336
+t_exec: 0.03
+
+nb clauses sociabilite: 16003008
+t_exec: 15.934
+
+
+nb clauses AL: 144
+t_exec: 0.001
+
+nb clauses AM: 90720
+t_exec: 0.061
+
+nb clauses sociabilite: 44089920
+t_exec: 45.836
+
+
+nb clauses AL: 60
+t_exec: 0.0
+
+nb clauses AM: 3960
+t_exec: 0.002
+
+nb clauses sociabilite: 380160
+t_exec: 0.394
+
+
+nb clauses AL: 40
+t_exec: 0.0
+
+nb clauses AM: 7600
+t_exec: 0.005
+
+nb clauses sociabilite: 684000
+t_exec: 0.725
+
+
+nb clauses AL: 48
+t_exec: 0.0
+
+nb clauses AM: 13248
+t_exec: 0.012
+
+nb clauses sociabilite: 1430784
+t_exec: 1.493
+
+
+nb clauses AL: 56
+t_exec: 0.0
+
+nb clauses AM: 21168
+t_exec: 0.011
+
+nb clauses sociabilite: 2667168
+t_exec: 3.001
+
+
+nb clauses AL: 80
+t_exec: 0.001
+
+nb clauses AM: 62400
+t_exec: 0.04
+
+nb clauses sociabilite: 19968000
+t_exec: 22.449
+
+
+nb clauses AL: 60
+t_exec: 0.0
+
+nb clauses AM: 11400
+t_exec: 0.006
+
+nb clauses sociabilite: 2052000
+t_exec: 2.309
+
+
+nb clauses AL: 72
+t_exec: 0.001
+
+nb clauses AM: 19872
+t_exec: 0.016
+
+nb clauses sociabilite: 4292352
+t_exec: 4.673
+
+
+nb clauses AL: 84
+t_exec: 0.001
+
+nb clauses AM: 31752
+t_exec: 0.018
+
+nb clauses sociabilite: 8001504
+t_exec: 9.151
+
+
+nb clauses AL: 80
+t_exec: 0.001
+
+nb clauses AM: 15200
+t_exec: 0.014
+
+nb clauses sociabilite: 4104000
+t_exec: 4.257
+
+
+nb clauses AL: 120
+t_exec: 0.001
+
+nb clauses AM: 52200
+t_exec: 0.035
+
+nb clauses sociabilite: 37584000
+t_exec: 37.911
+
+
+nb clauses AL: 112
+t_exec: 0.002
+
+nb clauses AM: 42336
+t_exec: 0.034
+
+nb clauses sociabilite: 16003008
+t_exec: 18.234
+
+
+nb clauses AL: 144
+t_exec: 0.001
+
+nb clauses AM: 90720
+t_exec: 0.067
+
+nb clauses sociabilite: 44089920
+t_exec: 46.861
+
+
+nb clauses AL: 60
+t_exec: 0.0
+
+nb clauses AM: 3960
+t_exec: 0.002
+
+nb clauses sociabilite: 380160
+t_exec: 0.413
+
+
+nb clauses AL: 100
+t_exec: 0.001
+
+nb clauses AM: 19000
+t_exec: 0.012
+
+nb clauses sociabilite: 6840000
+t_exec: 7.484
+
+
+nb clauses AL: 140
+t_exec: 0.001
+
+nb clauses AM: 52920
+t_exec: 0.048
+
+nb clauses sociabilite: 26671680
+t_exec: 30.12
+
+
+nb clauses AL: 120
+t_exec: 0.001
+
+nb clauses AM: 33120
+t_exec: 0.025
+
+nb clauses sociabilite: 6359040
+t_exec: 7.505
+
+
+nb clauses AL: 72
+t_exec: 0.0
+
+nb clauses AM: 4752
+t_exec: 0.003
+
+nb clauses sociabilite: 570240
+t_exec: 0.595
+
+
+nb clauses AL: 90
+t_exec: 0.0
+
+nb clauses AM: 9450
+t_exec: 0.006
+
+nb clauses sociabilite: 1417500
+t_exec: 1.544
+
+
+nb clauses AL: 108
+t_exec: 0.001
+
+nb clauses AM: 16524
+t_exec: 0.016
+
+nb clauses sociabilite: 2974320
+t_exec: 3.519
+
+
+nb clauses AL: 105
+t_exec: 0.001
+
+nb clauses AM: 11025
+t_exec: 0.006
+
+nb clauses sociabilite: 1984500
+t_exec: 2.271
+
+
+nb clauses AL: 175
+t_exec: 0.002
+
+nb clauses AM: 52500
+t_exec: 0.037
+
+nb clauses sociabilite: 63000000
+t_exec: 69.621
+
+

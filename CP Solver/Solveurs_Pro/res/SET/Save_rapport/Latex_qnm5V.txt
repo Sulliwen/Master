@@ -1,0 +1,12 @@
+Tableau des res format latex
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{temps exec} \\ \hline
+\multirow{1}{4em}{\centering{5 3 3}} & bs\_a12\_o12 & 0.219 \\ 
+\hline
+\end{tabular}
+\caption{Influence des brise-symmétries sur les temps de résolution sous Gecode}
+\end{table}
+

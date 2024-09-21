@@ -1,0 +1,202 @@
+Tableau des res format latex
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{temps exec} \\ \hline
+\multirow{1}{4em}{\centering{2 5 4}} & bs\_a12\_o12 & 0.186 \\ 
+\hline
+\end{tabular}
+\caption{Influence des brise-symmétries sur les temps de résolution sous Gecode}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{temps exec} \\ \hline
+\multirow{1}{4em}{\centering{2 6 4}} & bs\_a12\_o12 & 0.29 \\ 
+\hline
+\end{tabular}
+\caption{Influence des brise-symmétries sur les temps de résolution sous Gecode}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{temps exec} \\ \hline
+\multirow{1}{4em}{\centering{2 7 4}} & bs\_a12\_o12 & 0.369 \\ 
+\hline
+\end{tabular}
+\caption{Influence des brise-symmétries sur les temps de résolution sous Gecode}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{temps exec} \\ \hline
+\multirow{1}{4em}{\centering{2 8 5}} & bs\_a12\_o12 & 59.258 \\ 
+\hline
+\end{tabular}
+\caption{Influence des brise-symmétries sur les temps de résolution sous Gecode}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{temps exec} \\ \hline
+\multirow{1}{4em}{\centering{3 5 4}} & bs\_a12\_o12 & 0.319 \\ 
+\hline
+\end{tabular}
+\caption{Influence des brise-symmétries sur les temps de résolution sous Gecode}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{temps exec} \\ \hline
+\multirow{1}{4em}{\centering{3 6 4}} & bs\_a12\_o12 & 0.361 \\ 
+\hline
+\end{tabular}
+\caption{Influence des brise-symmétries sur les temps de résolution sous Gecode}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{temps exec} \\ \hline
+\multirow{1}{4em}{\centering{3 7 4}} & bs\_a12\_o12 & 0.519 \\ 
+\hline
+\end{tabular}
+\caption{Influence des brise-symmétries sur les temps de résolution sous Gecode}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{temps exec} \\ \hline
+\multirow{1}{4em}{\centering{4 5 4}} & bs\_a12\_o12 & 0.334 \\ 
+\hline
+\end{tabular}
+\caption{Influence des brise-symmétries sur les temps de résolution sous Gecode}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{temps exec} \\ \hline
+\multirow{1}{4em}{\centering{4 6 5}} & bs\_a12\_o12 & 0.871 \\ 
+\hline
+\end{tabular}
+\caption{Influence des brise-symmétries sur les temps de résolution sous Gecode}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{temps exec} \\ \hline
+\multirow{1}{4em}{\centering{4 7 4}} & bs\_a12\_o12 & 0.467 \\ 
+\hline
+\end{tabular}
+\caption{Influence des brise-symmétries sur les temps de résolution sous Gecode}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{temps exec} \\ \hline
+\multirow{1}{4em}{\centering{4 9 4}} & bs\_a12\_o12 & 0.694 \\ 
+\hline
+\end{tabular}
+\caption{Influence des brise-symmétries sur les temps de résolution sous Gecode}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{temps exec} \\ \hline
+\multirow{1}{4em}{\centering{5 4 3}} & bs\_a12\_o12 & 31.935 \\ 
+\hline
+\end{tabular}
+\caption{Influence des brise-symmétries sur les temps de résolution sous Gecode}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{temps exec} \\ \hline
+\multirow{1}{4em}{\centering{5 5 4}} & bs\_a12\_o12 & 0.597 \\ 
+\hline
+\end{tabular}
+\caption{Influence des brise-symmétries sur les temps de résolution sous Gecode}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{temps exec} \\ \hline
+\multirow{1}{4em}{\centering{5 7 4}} & bs\_a12\_o12 & 0.771 \\ 
+\hline
+\end{tabular}
+\caption{Influence des brise-symmétries sur les temps de résolution sous Gecode}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{temps exec} \\ \hline
+\multirow{1}{4em}{\centering{5 8 3}} & bs\_a12\_o12 & 0.505 \\ 
+\hline
+\end{tabular}
+\caption{Influence des brise-symmétries sur les temps de résolution sous Gecode}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{temps exec} \\ \hline
+\multirow{1}{4em}{\centering{6 4 3}} & bs\_a12\_o12 & 0.332 \\ 
+\hline
+\end{tabular}
+\caption{Influence des brise-symmétries sur les temps de résolution sous Gecode}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{temps exec} \\ \hline
+\multirow{1}{4em}{\centering{6 5 3}} & bs\_a12\_o12 & 1.115 \\ 
+\hline
+\end{tabular}
+\caption{Influence des brise-symmétries sur les temps de résolution sous Gecode}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{temps exec} \\ \hline
+\multirow{1}{4em}{\centering{6 6 3}} & bs\_a12\_o12 & 0.53 \\ 
+\hline
+\end{tabular}
+\caption{Influence des brise-symmétries sur les temps de résolution sous Gecode}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{temps exec} \\ \hline
+\multirow{1}{4em}{\centering{7 5 3}} & bs\_a12\_o12 & 200.304 \\ 
+\hline
+\end{tabular}
+\caption{Influence des brise-symmétries sur les temps de résolution sous Gecode}
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{temps exec} \\ \hline
+\multirow{1}{4em}{\centering{7 5 5}} & bs\_a12\_o12 & 0.466 \\ 
+\hline
+\end{tabular}
+\caption{Influence des brise-symmétries sur les temps de résolution sous Gecode}
+\end{table}
+
