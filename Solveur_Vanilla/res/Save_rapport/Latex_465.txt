@@ -1,0 +1,19 @@
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|} \hline
+\textbf{Instance} & \textbf{Modèle} & \textbf{t total (s)} \\ \hline
+\multirow{10}{4em}{\centering{4 6 5}} & bs\_a1 & 200.02 \\ 
+ & bs\_a2 & 130.723 \\ 
+ & bs\_a12 & 200.022 \\ 
+ & bs\_a12\_o1 & 200.025 \\ 
+ & bs\_a12\_o2 & 200.024 \\ 
+ & bs\_a12\_o12 & 200.028 \\ 
+ & bs\_o1 & 200.022 \\ 
+ & bs\_o2 & 200.051 \\ 
+ & bs\_o12 & 200.024 \\ 
+ & bs\_sbs & 200.033 \\ 
+\hline
+\end{tabular}
+\caption{Instance 4 6 5: influence des bs sur les temps de résolution de Vanilla}
+\end{table}
+
