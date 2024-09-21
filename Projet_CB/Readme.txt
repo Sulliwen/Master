@@ -1,3 +1,5 @@
+Ce projet vise à tester l'impact des choix de modélisations sur le coût de résolution. Ici nous testons des modélisations SAT vs SET sur le problème combinatoire Cyclic Bandwidth (CB).
+
 Liste des modules python à installer:
 - sudo pip install pycsp3
 - sudo pip install pySAT
