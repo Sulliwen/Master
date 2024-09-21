@@ -1,3 +1,0 @@
-Pour merger les fichiers latex en un seul, executer la commande suivante dans un terminal depuis le dosier res/
-
-cat Latex_254.txt Latex_264.txt Latex_274.txt Latex_285.txt Latex_354.txt Latex_364.txt Latex_374.txt Latex_494.txt > Latex.txt
