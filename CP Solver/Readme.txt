@@ -1,4 +1,10 @@
-Le Rapport pdf se trouve dans le dossier Doc.
+Ce dossier contient notre travail sur l'implémentation d'un solveur CP. Il contient : 
+- Vanilla Solver : un solveur visant à résoudre non seulement le SGP mais aussi d'autres puzzles comme le Sudoku et le N Queens.
+- Modèles :
+-- SGP : différentes modélisations avec différentes symmetry-breaking contraintes
+-- Sudoku : visualisation du modèle et de la solution
+
+Un rapport PDF se trouve dans le dossier Doc.
 
 -------------------------------
 - Test des modèles SET et SAT -
